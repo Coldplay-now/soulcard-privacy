@@ -132,6 +132,22 @@ li {
   margin-bottom: 28px;
 }
 
+.apk-download {
+  display: inline-block;
+  background: var(--accent);
+  color: #fff;
+  padding: 12px 22px;
+  border-radius: 28px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  margin: 4px 0 6px;
+}
+
+.apk-download:hover {
+  opacity: 0.9;
+}
+
 .tagline {
   font-size: clamp(16px, 2.4vw, 19px);
   color: var(--ink-secondary);
