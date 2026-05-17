@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 2,
-  "apkVersionName": "1.1",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.1.apk",
-  "apkSizeBytes": 11834690,
+  "apkVersionCode": 3,
+  "apkVersionName": "1.2",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.2.apk",
+  "apkSizeBytes": 11851618,
   "cardsSha256": "f16fcb5f992604e6f62d2870fe5697e0441a6baca6f34be0ea403908e126a12f",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.1 新增云端检查更新：cards.json 内容可热更新，APK 新版本会弹窗提示。"
+  "releaseNotes": "v1.2 仪式感升级：抽卡前 3 列卡组聚光巡游、翻开瞬间光晕+光扫+五星粒子、震动反馈；分享改为发图（白卡 + 渐变背景 + 心卡署名）。"
 }
