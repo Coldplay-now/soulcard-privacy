@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 6,
-  "apkVersionName": "1.5",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.5.apk",
+  "apkVersionCode": 7,
+  "apkVersionName": "1.6",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.6.apk",
   "apkSizeBytes": 12884272,
   "cardsSha256": "f16fcb5f992604e6f62d2870fe5697e0441a6baca6f34be0ea403908e126a12f",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.5：Welcome 3 页视觉升级（大按钮 + 胶囊指示器 + 中心 icon 圆牌）；翻面 / 选卡 / 洗牌全部尊重系统'动画时长'设置；网格瓦片 / 操作按钮加全套无障碍标签。"
+  "releaseNotes": "v1.6：收藏成功的提示从黑色 Snackbar 换成顶部居中的粉色 jelly 胶囊（与 iOS 一致）；抽卡时的卡组聚光网格上每张卡都显示卡组名了，不再只是颜色。"
 }
