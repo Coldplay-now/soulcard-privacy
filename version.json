@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 9,
-  "apkVersionName": "1.8",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.8.apk",
-  "apkSizeBytes": 12884272,
+  "apkVersionCode": 10,
+  "apkVersionName": "1.9",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.9.apk",
+  "apkSizeBytes": 13097580,
   "cardsSha256": "f16fcb5f992604e6f62d2870fe5697e0441a6baca6f34be0ea403908e126a12f",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.8：修复了 Android 15 全面屏下顶部返回 / ⋯ 按钮被状态栏盖住、底部抽卡 / 收藏标签栏被手势条挡住的问题，所有屏幕现在都会让出系统状态栏和手势导航的空间。"
+  "releaseNotes": "v1.9：分享出去的卡片图片底部多了一个卡组颜色染色的二维码，朋友扫一下就能看到这个 App 的下载页。"
 }
