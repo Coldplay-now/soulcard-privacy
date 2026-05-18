@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 15,
-  "apkVersionName": "1.14",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.14.apk",
+  "apkVersionCode": 16,
+  "apkVersionName": "1.15",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.15.apk",
   "apkSizeBytes": 13114536,
   "cardsSha256": "d777fc6c23734cd9405937498216406013296199546584189255617867581a55",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.14：暗色模式可读性大补丁——卡背的「这一张说的是 / 卡组名 / 收藏 / 分享 / 再抽」、卡正面的「想看解释」按钮、卡片标题，dark 模式下全部恢复可读。海报左边距收窄不再空着一大块。抽卡跑马灯加上了「即将解锁」的两张锁定卡组瓦片，蹭一个解锁预告。文案残留的「心盒」全部改回「心卡」。"
+  "releaseNotes": "v1.15：卡片背面的「收藏 / 分享 / 再抽」三个按钮从卡片里搬到卡片下面了，卡背干净许多；正面也能直接收藏/分享了，不必先翻到背面。卡下方多了一行「戳卡片看说明 / 戳卡片翻回正面」提示。"
 }
