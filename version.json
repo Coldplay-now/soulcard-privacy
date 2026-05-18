@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 16,
-  "apkVersionName": "1.15",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.15.apk",
-  "apkSizeBytes": 13114536,
+  "apkVersionCode": 17,
+  "apkVersionName": "1.16",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.16.apk",
+  "apkSizeBytes": 13114540,
   "cardsSha256": "d777fc6c23734cd9405937498216406013296199546584189255617867581a55",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.15：卡片背面的「收藏 / 分享 / 再抽」三个按钮从卡片里搬到卡片下面了，卡背干净许多；正面也能直接收藏/分享了，不必先翻到背面。卡下方多了一行「戳卡片看说明 / 戳卡片翻回正面」提示。"
+  "releaseNotes": "v1.16：所有界面的卡片统一改成 2:3 比例（之前 3:4.6，差 2% 但常觉得偏长）。分享出去的图片重做：920×1380 的卡片里铺了气泡卡底 + 双色光晕 + 奶白雾 + 玻璃刃光内圈 + 白→卡组色渐变描边，卡组 pill 从悬浮在卡片上方搬进卡片顶部，整张图终于有 iOS 海报那种「通透」的卡感了。"
 }
