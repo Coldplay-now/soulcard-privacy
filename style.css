@@ -148,6 +148,32 @@ li {
   opacity: 0.9;
 }
 
+.screenshots-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+  margin: 20px 0 28px;
+}
+
+.screenshots-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 22px;
+  box-shadow: 0 6px 24px rgba(30, 18, 40, 0.10), 0 2px 6px rgba(30, 18, 40, 0.06);
+  border: 1px solid rgba(0, 0, 0, 0.04);
+  display: block;
+}
+
+@media (max-width: 600px) {
+  .screenshots-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  .screenshots-grid img {
+    border-radius: 16px;
+  }
+}
+
 .tagline {
   font-size: clamp(16px, 2.4vw, 19px);
   color: var(--ink-secondary);
