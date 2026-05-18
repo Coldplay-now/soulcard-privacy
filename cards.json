@@ -3737,7 +3737,7 @@
           "deckId": "secret_reward",
           "title": "隐形皇冠",
           "punchline": "你没说出口的委屈，今天也算数。",
-          "explanation": "不是哭出来才叫难过，不是被看见才叫辛苦。心盒先替你记一笔：你很不容易。",
+          "explanation": "不是哭出来才叫难过，不是被看见才叫辛苦。心卡先替你记一笔：你很不容易。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -3760,7 +3760,7 @@
           "id": "secret_reward_006",
           "deckId": "secret_reward",
           "title": "私藏礼物",
-          "punchline": "心盒偷偷给你存了一颗糖。",
+          "punchline": "心卡偷偷给你存了一颗糖。",
           "explanation": "今天可以不必有理由地开心一下。这颗糖归你，不用分享。",
           "backgroundTags": [
             "hidden",
@@ -3821,7 +3821,7 @@
           "deckId": "secret_reward",
           "title": "私人配方",
           "punchline": "这一刻的安慰，只配给你。",
-          "explanation": "心盒收藏的小心思，今天专属于你。带它走，别管别人有没有。",
+          "explanation": "心卡收藏的小心思，今天专属于你。带它走，别管别人有没有。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -3867,9 +3867,9 @@
         {
           "id": "secret_reward_015",
           "deckId": "secret_reward",
-          "title": "心盒豁免",
+          "title": "心卡豁免",
           "punchline": "你今天的一切不专业，本卡免责。",
-          "explanation": "今天可以做选项里的下下策。心盒签字盖章，过。",
+          "explanation": "今天可以做选项里的下下策。心卡签字盖章，过。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -3893,7 +3893,7 @@
           "deckId": "secret_reward",
           "title": "偷偷被看见",
           "punchline": "你做的那些没人看见的事，被记下来了。",
-          "explanation": "你不必要奖牌。你的努力心盒替你记一笔，谁也偷不走。",
+          "explanation": "你不必要奖牌。你的努力心卡替你记一笔，谁也偷不走。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -5049,7 +5049,7 @@
           "deckId": "favored_once",
           "title": "替我应援",
           "punchline": "今天没人为你欢呼，那我先来。",
-          "explanation": "心盒为你欢呼一秒。你做的小事，值得这一秒。",
+          "explanation": "心卡为你欢呼一秒。你做的小事，值得这一秒。",
           "backgroundTags": [
             "hidden",
             "pink",
@@ -6806,7 +6806,7 @@
           "id": "you_unlocked_004",
           "deckId": "you_unlocked",
           "title": "彩蛋收集者",
-          "punchline": "生活没给的彩蛋，心盒先给你补一个。",
+          "punchline": "生活没给的彩蛋，心卡先给你补一个。",
           "explanation": "不是每一天都有惊喜，但可以自己制造一点。小小的奖励，也值得认真开心。",
           "backgroundTags": [
             "hidden",
@@ -6830,8 +6830,8 @@
           "id": "you_unlocked_006",
           "deckId": "you_unlocked",
           "title": "通关党",
-          "punchline": "你已经把心盒玩到隐藏关卡了。",
-          "explanation": "你的好奇心被看见了。心盒为你打开下一层。",
+          "punchline": "你已经把心卡玩到隐藏关卡了。",
+          "explanation": "你的好奇心被看见了。心卡为你打开下一层。",
           "backgroundTags": [
             "hidden",
             "unlock",
@@ -6854,7 +6854,7 @@
           "id": "you_unlocked_008",
           "deckId": "you_unlocked",
           "title": "老粉认证",
-          "punchline": "你已经成为心盒的老朋友了。",
+          "punchline": "你已经成为心卡的老朋友了。",
           "explanation": "用得久了，App 也会偷偷喜欢你。继续来玩。",
           "backgroundTags": [
             "hidden",
@@ -6867,7 +6867,7 @@
           "deckId": "you_unlocked",
           "title": "内行操作",
           "punchline": "你这操作，已经超过 90% 的用户。",
-          "explanation": "你不只用心盒，你认真用它。这种认真本身就是高级的玩法。",
+          "explanation": "你不只用心卡，你认真用它。这种认真本身就是高级的玩法。",
           "backgroundTags": [
             "hidden",
             "unlock",
@@ -6890,7 +6890,7 @@
           "id": "you_unlocked_011",
           "deckId": "you_unlocked",
           "title": "隐藏 VIP",
-          "punchline": "你已经是心盒的内部 VIP 了。",
+          "punchline": "你已经是心卡的内部 VIP 了。",
           "explanation": "VIP 不是付费换的，是认真换的。你够认真，所以你够 V。",
           "backgroundTags": [
             "hidden",
@@ -6913,9 +6913,9 @@
         {
           "id": "you_unlocked_013",
           "deckId": "you_unlocked",
-          "title": "心盒老朋友",
-          "punchline": "心盒认得你的脸了。",
-          "explanation": "你每次来都被记一笔。下次心盒会拿出更好的招待你。",
+          "title": "心卡老朋友",
+          "punchline": "心卡认得你的脸了。",
+          "explanation": "你每次来都被记一笔。下次心卡会拿出更好的招待你。",
           "backgroundTags": [
             "hidden",
             "unlock",
@@ -6938,7 +6938,7 @@
           "id": "you_unlocked_015",
           "deckId": "you_unlocked",
           "title": "高级玩家",
-          "punchline": "你已经是心盒里的高级玩家。",
+          "punchline": "你已经是心卡里的高级玩家。",
           "explanation": "高级不是花得多，是玩得深。你对每一张卡都认真，这就是高级。",
           "backgroundTags": [
             "hidden",
@@ -6962,7 +6962,7 @@
           "id": "you_unlocked_017",
           "deckId": "you_unlocked",
           "title": "上头无害",
-          "punchline": "对心盒上头，是少数无害的上头。",
+          "punchline": "对心卡上头，是少数无害的上头。",
           "explanation": "它不让你买东西，也不让你刷数据。这种上头可以多来一点。",
           "backgroundTags": [
             "hidden",
@@ -6985,8 +6985,8 @@
         {
           "id": "you_unlocked_019",
           "deckId": "you_unlocked",
-          "title": "心盒挚友",
-          "punchline": "心盒已经悄悄记下了你。",
+          "title": "心卡挚友",
+          "punchline": "心卡已经悄悄记下了你。",
           "explanation": "你不是路过的用户。你是来过的、留下的、回访的人。",
           "backgroundTags": [
             "hidden",
@@ -7493,7 +7493,7 @@
           "deckId": "quiet_room",
           "title": "软话私享",
           "punchline": "这句话只说给你听，别转。",
-          "explanation": "有些温柔不适合广播。心盒为你单独放音。",
+          "explanation": "有些温柔不适合广播。心卡为你单独放音。",
           "backgroundTags": [
             "hidden",
             "quiet",
@@ -7613,7 +7613,7 @@
           "deckId": "quiet_room",
           "title": "进来歇会儿",
           "punchline": "走累了就进来，外面太大声。",
-          "explanation": "心盒是一个小角落。在这里你不必表现，只要在场。",
+          "explanation": "心卡是一个小角落。在这里你不必表现，只要在场。",
           "backgroundTags": [
             "hidden",
             "quiet",
@@ -8071,7 +8071,7 @@
           "deckId": "extra_comfort",
           "title": "心疼报销",
           "punchline": "你那些没说出口的心疼，今天可以报销。",
-          "explanation": "把它们一一记账。心盒做你的会计，今天结清。",
+          "explanation": "把它们一一记账。心卡做你的会计，今天结清。",
           "backgroundTags": [
             "hidden",
             "comfort",
@@ -8095,7 +8095,7 @@
           "deckId": "extra_comfort",
           "title": "大力抱抱",
           "punchline": "今天的抱抱不计算力度，随便用。",
-          "explanation": "你需要多紧抱多紧。心盒的抱抱无限量。",
+          "explanation": "你需要多紧抱多紧。心卡的抱抱无限量。",
           "backgroundTags": [
             "hidden",
             "comfort",
@@ -8119,7 +8119,7 @@
           "deckId": "extra_comfort",
           "title": "双倍允许",
           "punchline": "今天可以做两次让自己开心的事。",
-          "explanation": "一次怕浪费？那就两次。今天的额度心盒承包了。",
+          "explanation": "一次怕浪费？那就两次。今天的额度心卡承包了。",
           "backgroundTags": [
             "hidden",
             "comfort",
@@ -8179,7 +8179,7 @@
           "deckId": "extra_comfort",
           "title": "双倍勇气",
           "punchline": "今天的勇气，分两次用。",
-          "explanation": "一次不够就两次。心盒帮你存货，需要时来取。",
+          "explanation": "一次不够就两次。心卡帮你存货，需要时来取。",
           "backgroundTags": [
             "hidden",
             "comfort",

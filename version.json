@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 14,
-  "apkVersionName": "1.13",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.13.apk",
-  "apkSizeBytes": 13113968,
-  "cardsSha256": "f16fcb5f992604e6f62d2870fe5697e0441a6baca6f34be0ea403908e126a12f",
+  "apkVersionCode": 15,
+  "apkVersionName": "1.14",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.14.apk",
+  "apkSizeBytes": 13114536,
+  "cardsSha256": "d777fc6c23734cd9405937498216406013296199546584189255617867581a55",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.13：设置里的「检查更新」改成行内反馈——会先转圈，结果直接显示在那一行（已是最新版本 / 发现新版本 / 检查失败）。之前是 toast 在屏幕顶部，被设置面板挡住看不到。"
+  "releaseNotes": "v1.14：暗色模式可读性大补丁——卡背的「这一张说的是 / 卡组名 / 收藏 / 分享 / 再抽」、卡正面的「想看解释」按钮、卡片标题，dark 模式下全部恢复可读。海报左边距收窄不再空着一大块。抽卡跑马灯加上了「即将解锁」的两张锁定卡组瓦片，蹭一个解锁预告。文案残留的「心盒」全部改回「心卡」。"
 }
