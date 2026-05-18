@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 13,
-  "apkVersionName": "1.12",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.12.apk",
+  "apkVersionCode": 14,
+  "apkVersionName": "1.13",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.13.apk",
   "apkSizeBytes": 13113968,
   "cardsSha256": "f16fcb5f992604e6f62d2870fe5697e0441a6baca6f34be0ea403908e126a12f",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.12：翻到背面看「这一张说的是」的字号放大了一号，更好读；分享出去的图片，punchline 和 explanation 的行距也都加宽了，整张诗化呼吸更舒展。"
+  "releaseNotes": "v1.13：设置里的「检查更新」改成行内反馈——会先转圈，结果直接显示在那一行（已是最新版本 / 发现新版本 / 检查失败）。之前是 toast 在屏幕顶部，被设置面板挡住看不到。"
 }
