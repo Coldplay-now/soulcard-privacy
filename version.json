@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 10,
-  "apkVersionName": "1.9",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.9.apk",
-  "apkSizeBytes": 13097580,
+  "apkVersionCode": 11,
+  "apkVersionName": "1.10",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.10.apk",
+  "apkSizeBytes": 13097584,
   "cardsSha256": "f16fcb5f992604e6f62d2870fe5697e0441a6baca6f34be0ea403908e126a12f",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.9：分享出去的卡片图片底部多了一个卡组颜色染色的二维码，朋友扫一下就能看到这个 App 的下载页。"
+  "releaseNotes": "v1.10：收藏页的小卡片重做了，原来两色渐变 + 一行标题改成跟翻开后大卡片同款配方——气泡背景 + 卡组色光晕 + 卡组 pill + 标题 + punchline 节选，整页看起来不再像列表，而像一面卡片墙。"
 }
