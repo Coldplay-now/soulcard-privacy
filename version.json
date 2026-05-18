@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 7,
-  "apkVersionName": "1.6",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.6.apk",
+  "apkVersionCode": 8,
+  "apkVersionName": "1.7",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.7.apk",
   "apkSizeBytes": 12884272,
   "cardsSha256": "f16fcb5f992604e6f62d2870fe5697e0441a6baca6f34be0ea403908e126a12f",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.6：收藏成功的提示从黑色 Snackbar 换成顶部居中的粉色 jelly 胶囊（与 iOS 一致）；抽卡时的卡组聚光网格上每张卡都显示卡组名了，不再只是颜色。"
+  "releaseNotes": "v1.7：翻到背面的卡片操作条重做——收藏 / 分享 / 再抽 三个按钮都加了中文标签，再抽的 sparkles 图标默认就是粉色 + 光晕，引导你再翻下一张。"
 }
