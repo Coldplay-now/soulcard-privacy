@@ -3,9 +3,36 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>心卡 SoulCard</title>
-  <meta name="description" content="心卡 SoulCard：美美抽一张，让一句话替你理解今天的自己。">
+  <title>下载 心卡 SoulCard</title>
+  <meta name="description" content="心卡 SoulCard：美美抽一张，让一句话替你理解今天的自己。本页面会自动检测设备并跳到对应的安装入口。">
   <link rel="stylesheet" href="style.css">
+  <style>
+    .dl-card {
+      background: #fff;
+      border-radius: 18px;
+      padding: 22px 22px 24px;
+      margin: 18px 0 12px;
+      box-shadow: 0 6px 30px rgba(0,0,0,0.06);
+    }
+    .dl-card h3 { margin: 0 0 4px; font-size: 17px; }
+    .dl-card .platform-note {
+      color: #8b8794;
+      font-size: 13px;
+      margin: 0 0 14px;
+    }
+    .dl-card .apk-download { display: inline-block; margin: 0; }
+    .wechat-hint {
+      background: #fff7e6;
+      border-radius: 14px;
+      padding: 16px 18px;
+      margin: 16px 0;
+      color: #8a6d3b;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+    .links { margin-top: 28px; }
+    .sub-link { color: #b6b1bb; font-size: 12px; }
+  </style>
 </head>
 <body>
   <main>
@@ -13,17 +40,97 @@
       <h1>心卡 SoulCard</h1>
       <p class="tagline">美美抽一张，让一句话替你理解今天的自己。</p>
 
-      <p class="summary">
-        心卡是一款离线运行的情绪抽卡 iOS App。本地存储，零追踪，零数据上传。
-      </p>
+      <p class="summary" id="status">检测设备中…</p>
+
+      <div id="wechat-hint" class="wechat-hint" style="display:none">
+        看起来你在微信里打开了这个页面。<br>
+        请点击右上角 <strong>···</strong> → <strong>在浏览器中打开</strong>，才能直接下载安装包。
+      </div>
+
+      <div id="actions" style="display:none">
+        <div id="card-android" class="dl-card" style="display:none">
+          <h3>Android 版</h3>
+          <p class="platform-note" id="android-version">最新版本</p>
+          <a id="dl-android" class="apk-download" href="#" download>下载 SoulCard.apk</a>
+        </div>
+        <div id="card-ios" class="dl-card" style="display:none">
+          <h3>iOS 版</h3>
+          <p class="platform-note">App Store 审核中，敬请期待。</p>
+        </div>
+      </div>
 
       <nav class="links">
-        <a href="./privacy.html">隐私政策</a>
-        <a href="./support.html">帮助与支持</a>
+        <a class="sub-link" href="./privacy.html">隐私政策</a>
+        &nbsp;·&nbsp;
+        <a class="sub-link" href="./support.html">帮助与支持</a>
       </nav>
-
-      <p class="footer-note">本站点仅用于发布心卡 SoulCard 的隐私政策与支持页。</p>
     </article>
   </main>
+  <script>
+    (function () {
+      var ua = navigator.userAgent || '';
+      var isAndroid = /Android/i.test(ua);
+      var isIOS = /iPhone|iPad|iPod/i.test(ua);
+      var isWeChat = /MicroMessenger/i.test(ua);
+      var statusEl = document.getElementById('status');
+      var actionsEl = document.getElementById('actions');
+      var cardAndroid = document.getElementById('card-android');
+      var cardIos = document.getElementById('card-ios');
+      var dlAndroid = document.getElementById('dl-android');
+      var versionNote = document.getElementById('android-version');
+      var wechatHint = document.getElementById('wechat-hint');
+
+      function revealAndroid(apkUrl, versionName, sizeMB) {
+        dlAndroid.href = apkUrl;
+        if (versionName) {
+          versionNote.textContent = 'v' + versionName + (sizeMB ? ' · 约 ' + sizeMB + ' MB' : '');
+        }
+        cardAndroid.style.display = '';
+        actionsEl.style.display = '';
+      }
+      function revealIos() {
+        cardIos.style.display = '';
+        actionsEl.style.display = '';
+      }
+
+      // WeChat WebView blocks .apk downloads — show guidance and skip auto-redirect.
+      if (isWeChat) {
+        wechatHint.style.display = '';
+        statusEl.textContent = '心卡 SoulCard 离线运行，零追踪。';
+      }
+
+      fetch('./version.json', { cache: 'no-store' })
+        .then(function (r) { return r.json(); })
+        .then(function (j) {
+          var apkUrl = j.apkUrl;
+          var versionName = j.apkVersionName;
+          var sizeMB = j.apkSizeBytes ? (j.apkSizeBytes / 1024 / 1024).toFixed(1) : null;
+          if (isAndroid && !isWeChat) {
+            // Direct trigger — Android browsers prompt the user for the APK.
+            statusEl.textContent = '正在准备下载…';
+            window.location.href = apkUrl;
+            setTimeout(function () {
+              statusEl.textContent = '没自动开始？点击下面的按钮：';
+              revealAndroid(apkUrl, versionName, sizeMB);
+            }, 1500);
+          } else if (isIOS) {
+            statusEl.textContent = '心卡 SoulCard 离线运行，零追踪。';
+            revealIos();
+          } else if (isWeChat) {
+            revealAndroid(apkUrl, versionName, sizeMB);
+            revealIos();
+          } else {
+            statusEl.textContent = '请用手机打开此页面以下载，或者用下面的链接：';
+            revealAndroid(apkUrl, versionName, sizeMB);
+            revealIos();
+          }
+        })
+        .catch(function () {
+          // Fall back to the support page if version.json fetch fails (offline,
+          // CDN hiccup, etc).
+          statusEl.innerHTML = '加载下载信息失败，请前往 <a href="./support.html">帮助页</a> 手动下载。';
+        });
+    })();
+  </script>
 </body>
 </html>
