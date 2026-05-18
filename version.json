@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 8,
-  "apkVersionName": "1.7",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.7.apk",
+  "apkVersionCode": 9,
+  "apkVersionName": "1.8",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.8.apk",
   "apkSizeBytes": 12884272,
   "cardsSha256": "f16fcb5f992604e6f62d2870fe5697e0441a6baca6f34be0ea403908e126a12f",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.7：翻到背面的卡片操作条重做——收藏 / 分享 / 再抽 三个按钮都加了中文标签，再抽的 sparkles 图标默认就是粉色 + 光晕，引导你再翻下一张。"
+  "releaseNotes": "v1.8：修复了 Android 15 全面屏下顶部返回 / ⋯ 按钮被状态栏盖住、底部抽卡 / 收藏标签栏被手势条挡住的问题，所有屏幕现在都会让出系统状态栏和手势导航的空间。"
 }
