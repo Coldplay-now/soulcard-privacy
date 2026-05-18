@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 5,
-  "apkVersionName": "1.4",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.4.apk",
+  "apkVersionCode": 6,
+  "apkVersionName": "1.5",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.5.apk",
   "apkSizeBytes": 12884272,
   "cardsSha256": "f16fcb5f992604e6f62d2870fe5697e0441a6baca6f34be0ea403908e126a12f",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.4 卡感大升级：首页变为 3 列 raster 卡背网格 + 大抽卡按钮；翻面光晕加倍 + 7 颗粒子；卡正反面 + 分享海报排版同步 iOS；返回键、暗模式色调、'信件式'设置页全部对齐 iOS。"
+  "releaseNotes": "v1.5：Welcome 3 页视觉升级（大按钮 + 胶囊指示器 + 中心 icon 圆牌）；翻面 / 选卡 / 洗牌全部尊重系统'动画时长'设置；网格瓦片 / 操作按钮加全套无障碍标签。"
 }
