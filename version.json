@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 12,
-  "apkVersionName": "1.11",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.11.apk",
+  "apkVersionCode": 13,
+  "apkVersionName": "1.12",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.12.apk",
   "apkSizeBytes": 13113968,
   "cardsSha256": "f16fcb5f992604e6f62d2870fe5697e0441a6baca6f34be0ea403908e126a12f",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.11：标点诗化换行跟 iOS 对齐了（、，；：— 必换，。！？ 非末尾换）；设置里多了「分享心卡给朋友」按钮和「分享图片附二维码」开关——不想带二维码就关掉，图片回到干净的居中签名。"
+  "releaseNotes": "v1.12：翻到背面看「这一张说的是」的字号放大了一号，更好读；分享出去的图片，punchline 和 explanation 的行距也都加宽了，整张诗化呼吸更舒展。"
 }
