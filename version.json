@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 20,
-  "apkVersionName": "1.19",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.19.apk",
+  "apkVersionCode": 21,
+  "apkVersionName": "1.20",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.20.apk",
   "apkSizeBytes": 13114600,
   "cardsSha256": "d777fc6c23734cd9405937498216406013296199546584189255617867581a55",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.19：双端 code review 一轮修复——分享按钮的隐藏卡解锁现在只有你真选了社交渠道才计数（点取消、保存到相册都不算）；快速连点不会再把进度丢回去；翻面 / 洗牌 / 卡片底图加载更稳；检查更新失败不再卡 6 小时。"
+  "releaseNotes": "v1.20：卡片正面的 punchline 字号略微调小，左侧让出一个字的宽度，整页呼吸更舒展。"
 }
