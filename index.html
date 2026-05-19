@@ -94,8 +94,11 @@
         actionsEl.style.display = '';
       }
 
-      // WeChat WebView blocks .apk downloads — show guidance and skip auto-redirect.
-      if (isWeChat) {
+      // WeChat WebView blocks .apk downloads (so Android needs the "open in
+      // browser" hint), but apps.apple.com deep links work natively in WeChat —
+      // tapping one auto-opens the App Store. So the iOS redirect path doesn't
+      // need the WeChat guardrail.
+      if (isAndroid && isWeChat) {
         wechatHint.style.display = '';
         statusEl.textContent = '心卡 SoulCard 离线运行，零追踪。';
       }
@@ -106,7 +109,16 @@
           var apkUrl = j.apkUrl;
           var versionName = j.apkVersionName;
           var sizeMB = j.apkSizeBytes ? (j.apkSizeBytes / 1024 / 1024).toFixed(1) : null;
-          if (isAndroid && !isWeChat) {
+          if (isIOS) {
+            // App Store URL works even inside WeChat — it deep-links into the
+            // native App Store app. Always attempt the redirect.
+            statusEl.textContent = '正在打开 App Store…';
+            window.location.href = 'https://apps.apple.com/cn/app/%E5%BF%83%E5%8D%A1/id6770044426';
+            setTimeout(function () {
+              statusEl.textContent = '没自动跳转？点下面：';
+              revealIos();
+            }, 1500);
+          } else if (isAndroid && !isWeChat) {
             // Direct trigger — Android browsers prompt the user for the APK.
             statusEl.textContent = '正在准备下载…';
             window.location.href = apkUrl;
@@ -114,19 +126,12 @@
               statusEl.textContent = '没自动开始？点击下面的按钮：';
               revealAndroid(apkUrl, versionName, sizeMB);
             }, 1500);
-          } else if (isIOS && !isWeChat) {
-            // iOS Safari supports direct App Store redirect via the apps.apple.com URL.
-            // WeChat in-app browser blocks it — handled below.
-            statusEl.textContent = '正在打开 App Store…';
-            window.location.href = 'https://apps.apple.com/cn/app/%E5%BF%83%E5%8D%A1/id6770044426';
-            setTimeout(function () {
-              statusEl.textContent = '没自动跳转？点下面：';
-              revealIos();
-            }, 1500);
-          } else if (isWeChat) {
+          } else if (isAndroid && isWeChat) {
+            // APK download blocked in WeChat — show card with the "open in
+            // browser" hint already visible above.
             revealAndroid(apkUrl, versionName, sizeMB);
-            revealIos();
           } else {
+            // Desktop / unknown — show both download cards.
             statusEl.textContent = '请用手机打开此页面以下载，或者用下面的链接：';
             revealAndroid(apkUrl, versionName, sizeMB);
             revealIos();
