@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 18,
-  "apkVersionName": "1.17",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.17.apk",
+  "apkVersionCode": 19,
+  "apkVersionName": "1.18",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.18.apk",
   "apkSizeBytes": 13114540,
   "cardsSha256": "d777fc6c23734cd9405937498216406013296199546584189255617867581a55",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.17：抽卡跑马灯巡游每一帧多了一下轻轻的「嗒」（CLOCK_TICK），落定时再一下 CONFIRM 重震封口；翻卡过到一半的瞬间也多了一下「咔哒」。手感更扎实了。"
+  "releaseNotes": "v1.18：在首页摇一摇手机就能抽一张了，不用再戳屏幕。只在首页生效，洗牌中、看卡中、设置面板打开时都不会误触。"
 }
