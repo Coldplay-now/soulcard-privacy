@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 25,
-  "apkVersionName": "1.24",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.24.apk",
+  "apkVersionCode": 26,
+  "apkVersionName": "1.25",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.25.apk",
   "apkSizeBytes": 13208512,
   "cardsSha256": "fb5663c175bc657138aa40531de4e1a78147b035465c6711c54341cf73228286",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.24：抽卡仪式现在每次随机一种节奏——线性扫光、蛇形、随机跳跃、向心螺旋、老虎机减速，5 种轮换。反复抽卡不再有熟悉感。"
+  "releaseNotes": "v1.25：设置面板顺序微调，把「最近抽过」挪到底部，高频的「设置·关于」往上提一格。"
 }
