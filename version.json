@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 29,
-  "apkVersionName": "1.28",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.28.apk",
-  "apkSizeBytes": 13244824,
+  "apkVersionCode": 30,
+  "apkVersionName": "1.29",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.29.apk",
+  "apkSizeBytes": 13261208,
   "cardsSha256": "fb5663c175bc657138aa40531de4e1a78147b035465c6711c54341cf73228286",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.28：视觉变暖。所有白色/深色 surface 调成奶油/暖琥珀，卡背叠了一层极轻的纸纹质感。整体更像家里那盏小灯，不像电脑屏。"
+  "releaseNotes": "v1.29：修复 dark mode 下卡片正面/背面文字看不清——卡片本身因为有 raster+光晕一直是浅色调，文字现在固定走深色，不再跟着系统主题变浅。"
 }
