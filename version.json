@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 28,
-  "apkVersionName": "1.27",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.27.apk",
-  "apkSizeBytes": 13208512,
+  "apkVersionCode": 29,
+  "apkVersionName": "1.28",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.28.apk",
+  "apkSizeBytes": 13244824,
   "cardsSha256": "fb5663c175bc657138aa40531de4e1a78147b035465c6711c54341cf73228286",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.27：修复卡背多断行卡片撑满问题——之前按字数判断字号，但短句多顿号也会挤到底部。改成按实际行数判断，约 24 张密集断句的卡现在自动小一档。"
+  "releaseNotes": "v1.28：视觉变暖。所有白色/深色 surface 调成奶油/暖琥珀，卡背叠了一层极轻的纸纹质感。整体更像家里那盏小灯，不像电脑屏。"
 }
