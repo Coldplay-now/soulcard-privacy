@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 17,
-  "apkVersionName": "1.16",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.16.apk",
+  "apkVersionCode": 18,
+  "apkVersionName": "1.17",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.17.apk",
   "apkSizeBytes": 13114540,
   "cardsSha256": "d777fc6c23734cd9405937498216406013296199546584189255617867581a55",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.16：所有界面的卡片统一改成 2:3 比例（之前 3:4.6，差 2% 但常觉得偏长）。分享出去的图片重做：920×1380 的卡片里铺了气泡卡底 + 双色光晕 + 奶白雾 + 玻璃刃光内圈 + 白→卡组色渐变描边，卡组 pill 从悬浮在卡片上方搬进卡片顶部，整张图终于有 iOS 海报那种「通透」的卡感了。"
+  "releaseNotes": "v1.17：抽卡跑马灯巡游每一帧多了一下轻轻的「嗒」（CLOCK_TICK），落定时再一下 CONFIRM 重震封口；翻卡过到一半的瞬间也多了一下「咔哒」。手感更扎实了。"
 }
