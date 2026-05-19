@@ -109,15 +109,23 @@
           var apkUrl = j.apkUrl;
           var versionName = j.apkVersionName;
           var sizeMB = j.apkSizeBytes ? (j.apkSizeBytes / 1024 / 1024).toFixed(1) : null;
-          if (isIOS) {
-            // App Store URL works even inside WeChat — it deep-links into the
-            // native App Store app. Always attempt the redirect.
+          if (isIOS && !isWeChat) {
+            // Safari: auto-redirect into the App Store is fast and clean.
             statusEl.textContent = '正在打开 App Store…';
             window.location.href = 'https://apps.apple.com/cn/app/%E5%BF%83%E5%8D%A1/id6770044426';
             setTimeout(function () {
               statusEl.textContent = '没自动跳转？点下面：';
               revealIos();
             }, 1500);
+          } else if (isIOS && isWeChat) {
+            // WeChat treats programmatic `window.location.href = apps.apple.com`
+            // as suspicious — it shows ANOTHER security warning page, breaking
+            // the flow worse than just showing a tap target. Tap-driven
+            // `<a href="apps.apple.com/...">` is treated as user intent and
+            // opens the App Store directly. So skip auto-redirect inside
+            // WeChat; surface the iOS card immediately with a clear CTA.
+            statusEl.textContent = '点下方按钮，跳转到 App Store。';
+            revealIos();
           } else if (isAndroid && !isWeChat) {
             // Direct trigger — Android browsers prompt the user for the APK.
             statusEl.textContent = '正在准备下载…';
