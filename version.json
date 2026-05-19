@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 22,
-  "apkVersionName": "1.21",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.21.apk",
+  "apkVersionCode": 23,
+  "apkVersionName": "1.22",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.22.apk",
   "apkSizeBytes": 13208512,
   "cardsSha256": "fb5663c175bc657138aa40531de4e1a78147b035465c6711c54341cf73228286",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.21：内容大改版。重写 you_unlocked 整组（50张）+ 隐藏菜单卡组（50张），6 个浅卡组 explanation 全面扩写（300张），另外修复 30 张散落硬熬卡。1000 张卡总体的质感更稳更贴近真实生活。"
+  "releaseNotes": "v1.22：修复卡背长文本布局。「——」双破折号之前会被错误拆成三行，现在保持为一对，断行更诗意。超过 60 字的长解释（约 5% 卡片）自动小一档字号，确保不跟底部卡组 pill 撞车。"
 }
