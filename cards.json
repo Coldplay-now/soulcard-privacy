@@ -29,7 +29,7 @@
           "deckId": "today_mood",
           "title": "人间缓冲中",
           "punchline": "你不是不努力，你是在加载。",
-          "explanation": "有些状态不是懒，是脑子和心都需要转圈圈。等一下自己，不会耽误你成为很酷的人。",
+          "explanation": "有些状态不是懒，是脑子和心都需要转圈圈。等一下自己——加载完了，再开始今天的事。",
           "backgroundTags": [
             "sky",
             "peach",
@@ -2496,8 +2496,8 @@
           "id": "survive_today_003",
           "deckId": "survive_today",
           "title": "崩但好看",
-          "punchline": "情绪可以崩，妆不能白化。",
-          "explanation": "你可以一边掉线一边保持体面，这不矛盾。不是为了给谁看，是为了提醒自己还在场。",
+          "punchline": "崩可以，体面留一点。",
+          "explanation": "你可以一边掉线一边保持体面——这两件事不矛盾。不是为了给谁看，是为了提醒自己“我还在场”——只要这一点没丢，就还能往回走。",
           "backgroundTags": [
             "lime",
             "spark",
@@ -2532,8 +2532,8 @@
           "id": "survive_today_006",
           "deckId": "survive_today",
           "title": "今日合格",
-          "punchline": "今天活下来就 60 分起步。",
-          "explanation": "你不必每天满分。能起床、能吃饭、能下班，已经是合格人类。",
+          "punchline": "今天的 60 分，就是赢。",
+          "explanation": "不是每天都要满分。60 分意味着你按时起床了、吃了一顿饭、做完了至少一件事——这些动作叠起来，已经是合格的一天。",
           "backgroundTags": [
             "lime",
             "spark",
@@ -3712,8 +3712,8 @@
           "id": "secret_reward_002",
           "deckId": "secret_reward",
           "title": "夸夸免检",
-          "punchline": "本卡宣布：你今天不用再自证可爱。",
-          "explanation": "可爱不是表现出来才算数。你皱眉、烦躁、想摆烂的时候，也没有掉出可爱范围。",
+          "punchline": "你今天不用再自证可爱。",
+          "explanation": "可爱不是表现出来才算数。你皱眉、烦躁、想摆烂的时候——也没有掉出可爱的范围。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -3737,7 +3737,7 @@
           "deckId": "secret_reward",
           "title": "隐形皇冠",
           "punchline": "你没说出口的委屈，今天也算数。",
-          "explanation": "不是哭出来才叫难过，不是被看见才叫辛苦。心卡先替你记一笔：你很不容易。",
+          "explanation": "不是哭出来才叫难过，不是被看见才叫辛苦。今天先替自己记一笔——你很不容易，这件事不必等谁认证。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -3748,8 +3748,8 @@
           "id": "secret_reward_005",
           "deckId": "secret_reward",
           "title": "今日免骂券",
-          "punchline": "这张卡可以抵消你对自己的三句差评。",
-          "explanation": "先把「我是不是很糟」删掉。你只是累了，不是坏掉了。",
+          "punchline": "给自己抵消三句差评。",
+          "explanation": "先把「我是不是很糟」删掉。你只是累了——不是坏掉了，不是没救了，不是不值得——只是累了。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -3760,8 +3760,8 @@
           "id": "secret_reward_006",
           "deckId": "secret_reward",
           "title": "私藏礼物",
-          "punchline": "心卡偷偷给你存了一颗糖。",
-          "explanation": "今天可以不必有理由地开心一下。这颗糖归你，不用分享。",
+          "punchline": "今天偷偷给自己留一颗糖。",
+          "explanation": "不必有理由地开心一下。这颗糖归你——不用分享，不用解释，吃完也不会蛀牙。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -3820,8 +3820,8 @@
           "id": "secret_reward_011",
           "deckId": "secret_reward",
           "title": "私人配方",
-          "punchline": "这一刻的安慰，只配给你。",
-          "explanation": "心卡收藏的小心思，今天专属于你。带它走，别管别人有没有。",
+          "punchline": "这一刻的安慰，只给你。",
+          "explanation": "安慰不必拿出来比较——别人有没有得到不重要，重要的是你今天得到了。带它走，别管。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -3868,8 +3868,8 @@
           "id": "secret_reward_015",
           "deckId": "secret_reward",
           "title": "心卡豁免",
-          "punchline": "你今天的一切不专业，本卡免责。",
-          "explanation": "今天可以做选项里的下下策。心卡签字盖章，过。",
+          "punchline": "今天的不专业，免责。",
+          "explanation": "不必每个动作都标准。今天可以做选项里的下下策——选最不省力的、选最不“正确”的、选最让你舒服的——都过。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -3892,8 +3892,8 @@
           "id": "secret_reward_017",
           "deckId": "secret_reward",
           "title": "偷偷被看见",
-          "punchline": "你做的那些没人看见的事，被记下来了。",
-          "explanation": "你不必要奖牌。你的努力心卡替你记一笔，谁也偷不走。",
+          "punchline": "你做的那些没人看见的事，自己记得。",
+          "explanation": "你不必要奖牌。那些没人看见的努力——回家路上多走的一站、深夜没崩溃的那一刻、自己劝自己的那句话——你自己记得就够。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -3940,8 +3940,8 @@
           "id": "secret_reward_021",
           "deckId": "secret_reward",
           "title": "三秒被偏爱",
-          "punchline": "本卡批准：你被偏爱三秒钟。",
-          "explanation": "短的也算数。允许自己沉浸这一小段。",
+          "punchline": "今天给自己三秒钟的被偏爱。",
+          "explanation": "短的也算数。三秒里你可以想象有人正在为你担心、为你高兴、为你留位置——这种短暂的沉浸，是免费的休息。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -4001,7 +4001,7 @@
           "deckId": "secret_reward",
           "title": "限时甜度",
           "punchline": "今天甜度上限解除。",
-          "explanation": "想吃多少糖、看多少傻甜的剧，都不算多。",
+          "explanation": "想吃多少糖、看多少傻甜的剧，都不算多。糖也是合法的快乐来源——只是平时大家忘了——今天先把它放开。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -4012,8 +4012,8 @@
           "id": "secret_reward_027",
           "deckId": "secret_reward",
           "title": "自己说了算",
-          "punchline": "今天的决定，本卡背书。",
-          "explanation": "不需要请示任何人。你决定的就是对的。",
+          "punchline": "今天的决定，自己说了算。",
+          "explanation": "不需要请示任何人。“对不对”是结果之后才知道的事——今天先按你心里那个声音走，决定的瞬间，它就是对的。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -4048,8 +4048,8 @@
           "id": "secret_reward_030",
           "deckId": "secret_reward",
           "title": "自我升级",
-          "punchline": "本卡宣布你升级为'今天可以小娇气'。",
-          "explanation": "娇气是有名额的。今天的份在你这里。",
+          "punchline": "今天可以小娇气一下。",
+          "explanation": "娇气是有名额的——大多数日子你都把它让给了别人。今天的份在你这里——撒一次娇、嘟一次嘴、抱怨一句没听众，都行。",
           "backgroundTags": [
             "hidden",
             "reward",
@@ -5048,8 +5048,8 @@
           "id": "favored_once_011",
           "deckId": "favored_once",
           "title": "替我应援",
-          "punchline": "今天没人为你欢呼，那我先来。",
-          "explanation": "心卡为你欢呼一秒。你做的小事，值得这一秒。",
+          "punchline": "今天没人为你欢呼，那先给自己来。",
+          "explanation": "你做的小事——按时下班、回了那个难回的消息、自己做了一顿饭——本来就值得欢呼。世界不一定有空，你先给自己来一秒。",
           "backgroundTags": [
             "hidden",
             "pink",
@@ -5543,7 +5543,7 @@
           "deckId": "secret_menu",
           "title": "心情少冰",
           "punchline": "今天的情绪，少冰三分甜。",
-          "explanation": "不需要太猛的快乐，也不想要太重的难过。刚刚好就行，轻一点就行。",
+          "explanation": "不需要太猛的快乐，也不想要太重的难过。刚刚好就行——情绪不必每天都是高潮或低谷，平的部分也是生活的主体。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5555,7 +5555,7 @@
           "deckId": "secret_menu",
           "title": "烦恼去葱",
           "punchline": "有些烦，真的可以不要配菜。",
-          "explanation": "问题已经够大了，别再给它加想象、加假设、加自责。简单处理，简单离开。",
+          "explanation": "问题已经够大了，别再给它加想象、加假设、加自责。简单处理，简单离开——一件事的体积，常常是被自己撑大的。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5567,7 +5567,7 @@
           "deckId": "secret_menu",
           "title": "勇气加珍珠",
           "punchline": "给今天加一点点勇气，不用加满。",
-          "explanation": "不必突然变强。你只需要多一颗小小的“我试试看”，就够往前挪一点。",
+          "explanation": "不必突然变强。你只需要多一颗小小的“我试试看”——就够往前挪一点。Q 弹的那一颗，咬下去比想象的有质感。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5579,7 +5579,7 @@
           "deckId": "secret_menu",
           "title": "低落半糖",
           "punchline": "难过可以，但别把自己泡太苦。",
-          "explanation": "你可以承认今天不甜，也可以给自己留一点好入口。难过不是惩罚。",
+          "explanation": "你可以承认今天不甜，也可以给自己留一点好入口。难过不是惩罚——它只是今天的味道之一，不必把整杯都泡苦。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5591,7 +5591,7 @@
           "deckId": "secret_menu",
           "title": "清醒常温",
           "punchline": "上头可以退，体面要留。",
-          "explanation": "情绪热的时候，不适合做永久决定。先放凉一点，你会更听得见自己。",
+          "explanation": "情绪热的时候，不适合做永久决定。先放凉一点——等到能用平静的语气说出那句话，再决定要不要说。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5602,8 +5602,8 @@
           "id": "secret_menu_006",
           "deckId": "secret_menu",
           "title": "自信加双份",
-          "punchline": "今天的你，可以多自信一倍。",
-          "explanation": "自信不是有了底气才出现，是先装出来，慢慢真有。",
+          "punchline": "今天的自信，请加双份。",
+          "explanation": "不是要变成另一个人。把你已经做过的事在心里数一遍——那些证据本来就在，今天只是把音量调大。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5614,8 +5614,8 @@
           "id": "secret_menu_007",
           "deckId": "secret_menu",
           "title": "焦虑去冰",
-          "punchline": "今天的焦虑，请去冰常温。",
-          "explanation": "焦虑常温的时候反而好处理。冷掉了你才不会被烫到。",
+          "punchline": "今天的焦虑，请去冰。",
+          "explanation": "冷的焦虑让人发抖，热的焦虑让人冒汗。常温意味着不冷处理也不热反应——就让它在那里，很多焦虑会自己平息。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5627,7 +5627,7 @@
           "deckId": "secret_menu",
           "title": "期待少糖",
           "punchline": "对今天少一点甜的期待，反而更轻。",
-          "explanation": "期待越高摔得越重。少糖一点，意外的甜更珍贵。",
+          "explanation": "期待越高摔得越重。少糖一点——不是没期待，是把它调到不至于让你失望的那个甜度——意外的甜反而更明显。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5638,8 +5638,8 @@
           "id": "secret_menu_009",
           "deckId": "secret_menu",
           "title": "友情加奶",
-          "punchline": "想你的人，今天加奶发送。",
-          "explanation": "你给他打电话试试。有些感情需要主动加点料，才更醇厚。",
+          "punchline": "想念的人，今天发一句。",
+          "explanation": "想念在心里时间长了会变酸。今天发一句“在干嘛”——不必有目的，也不必长聊——就是把心里那杯东西倒出来一点。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5650,8 +5650,8 @@
           "id": "secret_menu_010",
           "deckId": "secret_menu",
           "title": "烦恼去冰",
-          "punchline": "今天的烦，请去掉所有冰块。",
-          "explanation": "凉烦比热烦更难解。先把它放温，再面对。",
+          "punchline": "今天的烦，先放温。",
+          "explanation": "烫的时候动手会烫到自己。让它在心里待一会儿——等温度降到能拿起来的程度，再决定要不要拆解。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5663,7 +5663,7 @@
           "deckId": "secret_menu",
           "title": "自怜半糖",
           "punchline": "可以可怜自己一下，但别太甜。",
-          "explanation": "适当可怜自己是补给，但泡太久会蛀牙。微微就好。",
+          "explanation": "适当可怜自己是补给，但泡太久会蛀牙。微微就好——承认今天不容易，然后翻篇，比一直停留在那杯糖水里更轻。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5675,7 +5675,7 @@
           "deckId": "secret_menu",
           "title": "决心常温",
           "punchline": "新决定，请别一开始就太狠。",
-          "explanation": "极端的决心容易反弹。常温的承诺，反而能维持长久。",
+          "explanation": "极端的决心容易反弹。常温的承诺，反而能维持长久——“我试试每天读 10 页”比“我今年要读 50 本”更可能真的发生。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5687,7 +5687,7 @@
           "deckId": "secret_menu",
           "title": "甜度调节",
           "punchline": "今天对人少甜一点，对自己甜一点。",
-          "explanation": "把对外的期待降一档，对自己的关爱升一档。整体甜度刚好。",
+          "explanation": "把对外的期待降一档，对自己的关爱升一档。整体甜度刚好——别人的不回应不那么扎，自己的小好心情也更容易喝出来。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5699,7 +5699,7 @@
           "deckId": "secret_menu",
           "title": "反思少冰",
           "punchline": "反思不必冰冷地对自己。",
-          "explanation": "可以反思但不必苛责。今晚的反思请用常温茶，不要用冰刀。",
+          "explanation": "可以反思但不必苛责。今晚的反思请用常温茶，不要用冰刀——温度对了，看见的才是事情本身，而不是用来攻击自己的把柄。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5711,7 +5711,7 @@
           "deckId": "secret_menu",
           "title": "喜悦加珍珠",
           "punchline": "今天小开心，请加 Q 弹珍珠。",
-          "explanation": "小开心也要认真吃。慢慢嚼，咬到甜。",
+          "explanation": "小开心容易被自己忽略——抬头看见的云、刚好的咖啡、对方的一句话。今天给它们加颗珍珠，慢慢嚼出甜——这种慢，是奢侈的。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5723,7 +5723,7 @@
           "deckId": "secret_menu",
           "title": "关心去糖",
           "punchline": "你对别人的关心，请减糖。",
-          "explanation": "不必每句话都先甜后说。直接说也行，照顾不必表演。",
+          "explanation": "不必每句话都先甜后说。直接说也行，照顾不必表演——真正贴心的话往往不那么甜，但留得久。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5735,7 +5735,7 @@
           "deckId": "secret_menu",
           "title": "失望多冰",
           "punchline": "今天的失望，请加大量冰。",
-          "explanation": "失望热的时候最难受。冷下来再喝，痛感会减半。",
+          "explanation": "失望热的时候最难受——能烫到喉咙。冷下来再喝——痛感会减半，而且你能更清楚看到失望底下的真实期待是什么。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5747,7 +5747,7 @@
           "deckId": "secret_menu",
           "title": "决定常温",
           "punchline": "今天的决定别在情绪极端时下。",
-          "explanation": "等心降到常温，再判断要不要那个 yes 或 no。",
+          "explanation": "等心降到常温，再判断要不要那个 yes 或 no。冲动的决定大多都会后悔——给自己一晚的“待发酵”时间，不会让世界塌方。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5759,7 +5759,7 @@
           "deckId": "secret_menu",
           "title": "抱怨少葱",
           "punchline": "今天的抱怨可以有，但别加葱花。",
-          "explanation": "可以发泄，但别让小情绪变成关系里的尖锐部分。",
+          "explanation": "可以发泄，但别让小情绪变成关系里的尖锐部分。抱怨完整地说出来——但删掉那些会扎到对方的修饰词，剩下的就是真实的不舒服。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5771,7 +5771,7 @@
           "deckId": "secret_menu",
           "title": "自我加冰",
           "punchline": "今天的自己，多加一点冷静。",
-          "explanation": "热情很好，但冷静更稀有。在自己烫起来之前，加一块冰。",
+          "explanation": "热情是燃料，冷静是方向盘。烫起来的时候容易朝任何方向冲——加一块冰不是让你冷，是让你能看清自己要去的方向。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5783,7 +5783,7 @@
           "deckId": "secret_menu",
           "title": "心情默认糖",
           "punchline": "今天的情绪，默认半糖。",
-          "explanation": "你可以自己加减。",
+          "explanation": "不必默认全甜，也不必默认全苦。半糖的意思是给自己一个起点——不是必须开心，也不是只能难过——大部分日子本来就在中间。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5794,8 +5794,8 @@
           "id": "secret_menu_022",
           "deckId": "secret_menu",
           "title": "烦恼去冰",
-          "punchline": "把烦恼里的冷拿掉，会好喝一点。",
-          "explanation": "试试用温度替换冷漠。",
+          "punchline": "烦恼少加一份焦虑。",
+          "explanation": "一件事本身的麻烦是定量的，但每加一份“如果...怎么办”就翻倍。今天的烦，请只装本来的那份——不加预想的配料。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5806,8 +5806,8 @@
           "id": "secret_menu_023",
           "deckId": "secret_menu",
           "title": "自信加双份",
-          "punchline": "今天的自信，请加倍。",
-          "explanation": "免费加量。无需犹豫。",
+          "punchline": "今天的肯定，请加双份。",
+          "explanation": "不是夸自己，是承认事实。“我做完了那个 ppt” “我准时下班了” “我今天没崩溃”——这些都是已经发生的——把音量调大不是吹牛，是把它们说给自己听。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5818,8 +5818,8 @@
           "id": "secret_menu_024",
           "deckId": "secret_menu",
           "title": "焦虑去糖",
-          "punchline": "甜的焦虑会上头，今天不加糖。",
-          "explanation": "干净一点的清醒，更舒服。",
+          "punchline": "今天的焦虑，去糖。",
+          "explanation": "焦虑有时被自己悄悄加了糖——把“完了”想得绘声绘色、把假设演得真实。今天去糖，意思是不再给那些假设添油加醋——只看真正在的部分。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5830,8 +5830,8 @@
           "id": "secret_menu_025",
           "deckId": "secret_menu",
           "title": "心情少奶",
-          "punchline": "今天的情绪不太想腻。",
-          "explanation": "清淡一点也很好喝。",
+          "punchline": "今天的情绪，少奶。",
+          "explanation": "不想被太多情绪覆盖的日子。少奶的意思是让真实的味道直接到舌头上——不必温柔的修饰，也不必甜美的滤镜——就让它本来的样子在那里。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5843,7 +5843,7 @@
           "deckId": "secret_menu",
           "title": "善意加珍珠",
           "punchline": "今天对别人多嚼两下。",
-          "explanation": "珍珠是耐心。一颗一颗，慢慢来。",
+          "explanation": "珍珠是耐心。一颗一颗地嚼——别人说完话先想三秒再回，别人犯错先看背景再判断——这种慢慢嚼出来的善意，比脱口而出的好听话更扎实。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5854,8 +5854,8 @@
           "id": "secret_menu_027",
           "deckId": "secret_menu",
           "title": "委屈不要葱",
-          "punchline": "今天的委屈，请去掉那根葱。",
-          "explanation": "刺激的部分先拿掉。",
+          "punchline": "委屈，可以小份单独装。",
+          "explanation": "委屈不必和其他情绪混在一起。今天把它单独打包——看着它存在——它的体积可能比你想象的小，单独装的时候反而看清。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5867,7 +5867,7 @@
           "deckId": "secret_menu",
           "title": "自我谅解满杯",
           "punchline": "今天的原谅，给自己满杯。",
-          "explanation": "不必省着。装满才舒服。",
+          "explanation": "不必省着。你能给别人多少原谅，就给自己多少——昨天的拖延、上个月的失态、五年前的那个决定——都可以一起装进去。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5878,8 +5878,8 @@
           "id": "secret_menu_029",
           "deckId": "secret_menu",
           "title": "借口加冰",
-          "punchline": "今天的借口，加冰更脆。",
-          "explanation": "听起来更可爱。允许自己用。",
+          "punchline": "今天的“算了”，可以脆一点。",
+          "explanation": "不必每个决定都重。“算了” “下次再说” “今天就这样吧”——这些轻轻的话也是答案，比那些深思熟虑的承诺更让你松一口气。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5891,7 +5891,7 @@
           "deckId": "secret_menu",
           "title": "期望去半",
           "punchline": "今天对自己的期望减半。",
-          "explanation": "压力先打折扣。",
+          "explanation": "把“今天要做完”改成“今天做一半”——剩下的明天再说。这不是降低标准，是让你今晚能睡个完整的觉。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5903,7 +5903,7 @@
           "deckId": "secret_menu",
           "title": "勇气小杯",
           "punchline": "勇气来一小杯就好。",
-          "explanation": "不必鲸吞。一口一口的勇气也够用。",
+          "explanation": "勇气不必一次喝完。今天小小一杯——够你回那条消息、够你拒绝那个邀请、够你跟自己说一句“我可以慢一点”——已经是足够的剂量。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5915,7 +5915,7 @@
           "deckId": "secret_menu",
           "title": "自由加奶盖",
           "punchline": "今天的小自由，加奶盖更香。",
-          "explanation": "奢侈一点点。不会破产。",
+          "explanation": "小自由是日常的奢侈品——多睡 15 分钟、午饭多走一段、不必回那条消息。今天给这些时刻加一份奶盖——让它们更厚一点。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5927,7 +5927,7 @@
           "deckId": "secret_menu",
           "title": "决定加蜂蜜",
           "punchline": "今天的决定，请甜一点。",
-          "explanation": "选择本身可以是温柔的。",
+          "explanation": "决定不必每次都狠。今天选一个对自己温柔的选项——不必逼自己最优解——能让你今晚睡得着的，就是好选择。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5939,7 +5939,7 @@
           "deckId": "secret_menu",
           "title": "怀疑去半糖",
           "punchline": "对自己的怀疑，减糖。",
-          "explanation": "甜的怀疑最伤人。把糖收一些。",
+          "explanation": "“我是不是做得还不够好”——这种甜甜的怀疑最容易上瘾。今天把糖收一些，问句变陈述：“我已经做了 A、B、C”——事实在那里，怀疑就没那么自动。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5951,7 +5951,7 @@
           "deckId": "secret_menu",
           "title": "失败小杯装",
           "punchline": "今天的小失败，请用迷你杯。",
-          "explanation": "缩小尺寸，影响也跟着小。",
+          "explanation": "小失败被脑子放大成中杯、大杯——但其实它本来就是迷你杯的体积。今天把它装回原来的杯子里——就这么大，没有多。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5963,7 +5963,7 @@
           "deckId": "secret_menu",
           "title": "喜欢满杯",
           "punchline": "今天的喜欢，请全程满杯。",
-          "explanation": "不必谦虚。喜欢得理直气壮。",
+          "explanation": "喜欢不必稀释。喜欢一只猫、喜欢一首歌、喜欢某个人——这些不必“适度”——全程满杯也不会破产。喜欢是回报率最高的情感。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5975,7 +5975,7 @@
           "deckId": "secret_menu",
           "title": "心情加冰沙",
           "punchline": "今天的情绪，加点冰沙降一降。",
-          "explanation": "口感会改变。心情也会。",
+          "explanation": "心情翻江倒海的时候，加一杯冰沙——不是物理的，是心理的。冷一下让脑子重启——等溶化之后再决定要不要继续翻滚。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5987,7 +5987,7 @@
           "deckId": "secret_menu",
           "title": "焦虑限购",
           "punchline": "今天每人限购两次焦虑。",
-          "explanation": "超过就请离开柜台。",
+          "explanation": "超过就请离开柜台。一天担心两次已经够多，再多就是滥用——给大脑设一个明确的额度，比“少焦虑一点”这种模糊的目标更管用。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -5998,8 +5998,8 @@
           "id": "secret_menu_039",
           "deckId": "secret_menu",
           "title": "朋友圈不要茶",
-          "punchline": "今天发的内容，请去掉酸味。",
-          "explanation": "干净一点的语气，更舒服。",
+          "punchline": "朋友圈，今天去酸。",
+          "explanation": "发朋友圈的时候，删掉那个“看看你们的好生活”的小尖刺。直接说自己今天的事——不阴阳、不影射、不带钩——干净的表达反而更容易被看见。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -6011,7 +6011,7 @@
           "deckId": "secret_menu",
           "title": "自我夸奖大杯",
           "punchline": "今天的自夸，请大杯起步。",
-          "explanation": "大杯不贵。容量越大越好。",
+          "explanation": "不必“今天还行”这种小杯。大杯的意思是把今天具体做到的事说出来——“我准时下班了” “我没回那条挑刺的消息” “我提醒自己喝水了”——一项一项倒满。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -6023,7 +6023,7 @@
           "deckId": "secret_menu",
           "title": "体面装外带",
           "punchline": "今天的体面，打包带走。",
-          "explanation": "在家也用得上。",
+          "explanation": "体面不是只在外面用的。回到家里，自己一个人时，也可以保留——不必立刻瘫成熊样——给自己留一点“这个版本的我也认真在场”的感觉。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -6035,7 +6035,7 @@
           "deckId": "secret_menu",
           "title": "安静装小份",
           "punchline": "今天来一小份安静。",
-          "explanation": "不必全天。十五分钟就够。",
+          "explanation": "不必全天。十五分钟就够——关掉手机、关掉窗外、关掉脑子里那些没说完的对话——让世界短暂地小一点。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -6047,7 +6047,7 @@
           "deckId": "secret_menu",
           "title": "任性免单",
           "punchline": "今天的小任性，不收钱。",
-          "explanation": "限定一次。请抓紧。",
+          "explanation": "不点平时不会点的东西、买一份没必要的甜品、临时改路线——这些小任性今天不会扣分。生活不必每一刻都“应该”，今天偷偷买一次“想要”。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -6059,7 +6059,7 @@
           "deckId": "secret_menu",
           "title": "善良加蜂蜜",
           "punchline": "对自己的善良，请加蜜。",
-          "explanation": "你也可以是被善待的对象。",
+          "explanation": "你也可以是被善待的对象。对自己的批评先停一停，换成对自己的关心——今天累了就允许累、错了就允许错——这种内部的甜，比外部的赞美更顶饿。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -6070,8 +6070,8 @@
           "id": "secret_menu_045",
           "deckId": "secret_menu",
           "title": "退缩去渣",
-          "punchline": "今天的退缩，请滤掉那点渣。",
-          "explanation": "保留它的合理部分。",
+          "punchline": "今天的退缩，可以有理由。",
+          "explanation": "退缩不是懦弱。今天不想做的事——拒绝的那个邀请、推迟的那个决定——里面有它合理的成分。滤掉自责那部分，剩下的纯退缩本身就是有效的自我保护。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -6082,8 +6082,8 @@
           "id": "secret_menu_046",
           "deckId": "secret_menu",
           "title": "麻烦小杯装",
-          "punchline": "今天的麻烦事，请用最小杯。",
-          "explanation": "心理体积可以调。",
+          "punchline": "麻烦事，请用最小杯。",
+          "explanation": "麻烦的心理体积是可调的。今天把它装到最小的杯子里——“这只是一件小事”——心里的它就真的会缩小到那个尺寸。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -6094,8 +6094,8 @@
           "id": "secret_menu_047",
           "deckId": "secret_menu",
           "title": "委屈别加冰",
-          "punchline": "委屈不要太冷。",
-          "explanation": "温的委屈更好处理。",
+          "punchline": "委屈别加冰。",
+          "explanation": "把委屈冻起来是另一种伤害——它不会消失，只会在心里慢慢硬掉。今天让它温着、流着、说出来一点点——比埋着更轻。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -6107,7 +6107,7 @@
           "deckId": "secret_menu",
           "title": "期待全脂",
           "punchline": "今天的期待，请全脂版。",
-          "explanation": "浓郁一点。值得。",
+          "explanation": "不必把期待稀释成“也行”。今天浓郁地期待一件事——下班后的那顿饭、周末的那个安排、那个人会回消息——浓郁的期待本身就是一种生活滋味。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -6119,7 +6119,7 @@
           "deckId": "secret_menu",
           "title": "自我喜欢加奶",
           "punchline": "今天对自己的喜欢，加奶更柔。",
-          "explanation": "口感柔软。心也跟着。",
+          "explanation": "对自己的喜欢可以温柔。不是要狂热地肯定自己，是像加了一点奶——让那份喜欢更顺口、更日常、更不咄咄逼人。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -6131,7 +6131,7 @@
           "deckId": "secret_menu",
           "title": "限量小确幸",
           "punchline": "今天的小确幸，请限量供应。",
-          "explanation": "稀缺感会让它更好喝。",
+          "explanation": "稀缺感会让它更好喝。一天两三件小确幸刚刚好——抬头的云、那杯咖啡、地铁里听到的歌——多了反而麻木，少了刚好品出来。",
           "backgroundTags": [
             "hidden",
             "menu",
@@ -6168,8 +6168,8 @@
           "id": "share_people_002",
           "deckId": "share_people",
           "title": "朋友圈选手",
-          "punchline": "你这张卡，发出去会有人默默截图。",
-          "explanation": "因为它说的不只是你，也是很多没说出口的人。你替大家轻轻开了个口。",
+          "punchline": "这句话，发出去会有人默默截图。",
+          "explanation": "因为它说的不只是你，也是很多没说出口的人。你替大家轻轻开了个口——一句话引出了别人心里类似的感受。",
           "backgroundTags": [
             "hidden",
             "share",
@@ -6216,8 +6216,8 @@
           "id": "share_people_006",
           "deckId": "share_people",
           "title": "群聊扛把子",
-          "punchline": "你的金句，是群聊里的流量担当。",
-          "explanation": "你的表达让人想截图。这是天赋，不要藏着。",
+          "punchline": "你转发的那条，群里有人偷偷收藏。",
+          "explanation": "不必每条都有人点赞——发出去的瞬间已经完成了任务。看到的人里总有一两个被击中了，他们可能没说，但收藏了。",
           "backgroundTags": [
             "hidden",
             "share",
@@ -6769,601 +6769,601 @@
         {
           "id": "you_unlocked_001",
           "deckId": "you_unlocked",
-          "title": "分享小富婆",
-          "punchline": "你已经把情绪转发成资产了。",
-          "explanation": "这不是鸡血，这是你把共鸣变成了入口。会分享的人，本来就很会生活。",
+          "title": "没回的勇敢",
+          "punchline": "你没回那条消息。",
+          "explanation": "不回也是一种回。能不解释的人，往里收的力气最贵。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "soft",
+            "warm"
           ]
         },
         {
           "id": "you_unlocked_002",
           "deckId": "you_unlocked",
-          "title": "解锁怪厉害",
-          "punchline": "你居然真的坚持分享到这里，蛮会玩的。",
-          "explanation": "你不是随便点点，你是在认真寻找能击中自己的句子。这个认真，很可爱。",
+          "title": "沉默作答",
+          "punchline": "你这次没解释，沉默替你回了。",
+          "explanation": "不是所有的话都值得展开。你心里有刻度，不需要每次都校准给别人看。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "mist"
           ]
         },
         {
           "id": "you_unlocked_003",
           "deckId": "you_unlocked",
-          "title": "隐藏玩家",
-          "punchline": "普通用户在抽卡，你已经在开隐藏剧情。",
-          "explanation": "你对情绪的好奇心，比你想象中更强。继续抽，可能还会遇到更像你的那张。",
+          "title": "婉拒一次",
+          "punchline": "你拒绝了那个不太想去的局。",
+          "explanation": "不去也是一种到场——你到场陪了自己。下次的犹豫，可以更短一点。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "peach",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_004",
           "deckId": "you_unlocked",
-          "title": "彩蛋收集者",
-          "punchline": "生活没给的彩蛋，心卡先给你补一个。",
-          "explanation": "不是每一天都有惊喜，但可以自己制造一点。小小的奖励，也值得认真开心。",
+          "title": "不必接梗",
+          "punchline": "这次你没笑那个不舒服的玩笑。",
+          "explanation": "不笑就是答案。让对方知道你这里不通行，比解释一万遍都管用。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "mint",
+            "calm"
           ]
         },
         {
           "id": "you_unlocked_005",
           "deckId": "you_unlocked",
-          "title": "继续上头",
-          "punchline": "都解锁到这了，再抽一张也很合理。",
-          "explanation": "有些上头没有伤害，只是在和自己玩。只要你开心，这就不是浪费时间。",
+          "title": "不解释也行",
+          "punchline": "你没和那个不懂的人解释自己。",
+          "explanation": "解释是给愿意听的人。不愿意听的，给再多也是耗。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_006",
           "deckId": "you_unlocked",
-          "title": "通关党",
-          "punchline": "你已经把心卡玩到隐藏关卡了。",
-          "explanation": "你的好奇心被看见了。心卡为你打开下一层。",
+          "title": "不替别人扛",
+          "punchline": "你这次没接住“帮个忙”。",
+          "explanation": "帮忙是礼物不是义务。你也有不想出力的权利，不必为此抱歉。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "warm",
+            "glow"
           ]
         },
         {
           "id": "you_unlocked_007",
           "deckId": "you_unlocked",
-          "title": "卡组收藏家",
-          "punchline": "你解锁的不只是卡组，是你跟自己玩的方式。",
-          "explanation": "你认真对待自己的情绪，这件事比解锁本身珍贵。",
+          "title": "关上对话框",
+          "punchline": "你关掉了某个聊天，没愧疚。",
+          "explanation": "你不是没情感，是分清了哪些消耗值得。关掉一扇窗，是给自己开了别的窗。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "soft",
+            "warm"
           ]
         },
         {
           "id": "you_unlocked_008",
           "deckId": "you_unlocked",
-          "title": "老粉认证",
-          "punchline": "你已经成为心卡的老朋友了。",
-          "explanation": "用得久了，App 也会偷偷喜欢你。继续来玩。",
+          "title": "不必每个都回",
+          "punchline": "你假装没看见，其实看见了。",
+          "explanation": "选择性回应不是冷漠，是力气有限。优先给值得回应的人。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "mist"
           ]
         },
         {
           "id": "you_unlocked_009",
           "deckId": "you_unlocked",
-          "title": "内行操作",
-          "punchline": "你这操作，已经超过 90% 的用户。",
-          "explanation": "你不只用心卡，你认真用它。这种认真本身就是高级的玩法。",
+          "title": "按点收工",
+          "punchline": "你今天准时下班了。",
+          "explanation": "下班不是任性，是边界。把工作还给工作，把自己还给自己，两边都更体面。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "peach",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_010",
           "deckId": "you_unlocked",
-          "title": "上瘾小天使",
-          "punchline": "你上头不是问题，是有趣的人才上头。",
-          "explanation": "对喜欢的事认真投入，这不是浪费，是天赋。",
+          "title": "早睡一次",
+          "punchline": "你今天比昨天早睡了半小时。",
+          "explanation": "不是每次进步都看得见。但身体记得，明天的你会替今天的你说谢谢。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "mint",
+            "calm"
           ]
         },
         {
           "id": "you_unlocked_011",
           "deckId": "you_unlocked",
-          "title": "隐藏 VIP",
-          "punchline": "你已经是心卡的内部 VIP 了。",
-          "explanation": "VIP 不是付费换的，是认真换的。你够认真，所以你够 V。",
+          "title": "没硬撑",
+          "punchline": "你今天没逼自己看起来正常。",
+          "explanation": "你允许自己看起来累。卸掉那个“还行”的表情，省下的力气可以多爱一只猫。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_012",
           "deckId": "you_unlocked",
-          "title": "收集进度",
-          "punchline": "你已经收藏了好几句不舍得的话。",
-          "explanation": "这些话，未来某个时刻会再次救你。你正在为未来的自己存粮。",
+          "title": "想起喝水",
+          "punchline": "你想起来喝水了。",
+          "explanation": "这是一件小事。但你愿意照顾自己的身体，本身就是温柔的开始。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "warm",
+            "glow"
           ]
         },
         {
           "id": "you_unlocked_013",
           "deckId": "you_unlocked",
-          "title": "心卡老朋友",
-          "punchline": "心卡认得你的脸了。",
-          "explanation": "你每次来都被记一笔。下次心卡会拿出更好的招待你。",
+          "title": "散步五分",
+          "punchline": "你今天下楼走了五分钟。",
+          "explanation": "五分钟不解决人生，但能让大脑透一口气。这一口气够你撑过下半场。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "soft",
+            "warm"
           ]
         },
         {
           "id": "you_unlocked_014",
           "deckId": "you_unlocked",
-          "title": "嘴硬粉丝",
-          "punchline": "你嘴上说不上瘾，手却很诚实。",
-          "explanation": "承认吧，你是真的喜欢。喜欢一个 App 不丢人，证明它做对了什么。",
+          "title": "提早关机",
+          "punchline": "你今天提早关了手机一会儿。",
+          "explanation": "没有错过任何事。那些消息，明天回，不会有人受伤。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "mist"
           ]
         },
         {
           "id": "you_unlocked_015",
           "deckId": "you_unlocked",
-          "title": "高级玩家",
-          "punchline": "你已经是心卡里的高级玩家。",
-          "explanation": "高级不是花得多，是玩得深。你对每一张卡都认真，这就是高级。",
+          "title": "偷十分钟",
+          "punchline": "你今天偷了十分钟，纯粹发呆。",
+          "explanation": "这不是浪费，是给大脑做减法。最重要的想法常常是在发呆的时候出现的。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "peach",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_016",
           "deckId": "you_unlocked",
-          "title": "收藏控",
-          "punchline": "你收藏的卡，已经能写一本你的情绪日记。",
-          "explanation": "把它们偶尔翻一遍，你会看见自己的轨迹。",
+          "title": "看见的云",
+          "punchline": "你今天抬头看见一朵云。",
+          "explanation": "不是每次都要拍照。看一眼，留在记忆里，已经够了。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "mint",
+            "calm"
           ]
         },
         {
           "id": "you_unlocked_017",
           "deckId": "you_unlocked",
-          "title": "上头无害",
-          "punchline": "对心卡上头，是少数无害的上头。",
-          "explanation": "它不让你买东西，也不让你刷数据。这种上头可以多来一点。",
+          "title": "那杯咖啡",
+          "punchline": "你今天喝到了一杯刚好的咖啡。",
+          "explanation": "不是命运的大礼物，是小小的对味。这种刚好的瞬间，每天能有一两个就很值得。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_018",
           "deckId": "you_unlocked",
-          "title": "隐藏剧情",
-          "punchline": "你已经走到了别人没看到的剧情里。",
-          "explanation": "你解锁的不只是卡，是关于你自己的小故事。",
+          "title": "路边的猫",
+          "punchline": "你今天对一只路边的猫笑了。",
+          "explanation": "你没说话，它没回应。但你们短暂地交换了一个柔软的注视。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "warm",
+            "glow"
           ]
         },
         {
           "id": "you_unlocked_019",
           "deckId": "you_unlocked",
-          "title": "心卡挚友",
-          "punchline": "心卡已经悄悄记下了你。",
-          "explanation": "你不是路过的用户。你是来过的、留下的、回访的人。",
+          "title": "风刚刚好",
+          "punchline": "你今天走出门，风刚刚好。",
+          "explanation": "不冷不热，不抢戏。这种“刚好”是稀有装备，今天领到了。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "soft",
+            "warm"
           ]
         },
         {
           "id": "you_unlocked_020",
           "deckId": "you_unlocked",
-          "title": "解锁我自己",
-          "punchline": "解锁卡组的同时，你也解锁了自己。",
-          "explanation": "认真看待感受的人，最终会找到自己。继续抽，继续看。",
+          "title": "注意到月亮",
+          "punchline": "你今天抬头注意到了月亮。",
+          "explanation": "月亮每天都在，你今天才看见。这种“才看见”也是一种节奏的回归。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "mist"
           ]
         },
         {
           "id": "you_unlocked_021",
           "deckId": "you_unlocked",
-          "title": "通关隐藏关",
-          "punchline": "你已经走到主线之外。",
-          "explanation": "玩到隐藏关卡，说明你在用心。",
+          "title": "先伸了手",
+          "punchline": "你这次先发了那条消息。",
+          "explanation": "主动不丢人。在意一个人不需要等对等。今天的你先伸了手，这件事单独存档。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "peach",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_022",
           "deckId": "you_unlocked",
-          "title": "高级玩家",
-          "punchline": "你已经是这个 App 的资深玩家。",
-          "explanation": "深度使用的人，奖励也是隐藏的。",
+          "title": "说了对不起",
+          "punchline": "你今天先说了对不起。",
+          "explanation": "道歉不是认输，是不让关系卡住。能先放下身段的人，往往是关系里更有安全感的那个。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "mint",
+            "calm"
           ]
         },
         {
           "id": "you_unlocked_023",
           "deckId": "you_unlocked",
-          "title": "内测体验官",
-          "punchline": "你不知不觉成了内测户。",
-          "explanation": "你看到的是普通人看不到的。",
+          "title": "谢一谢",
+          "punchline": "你今天对谁认真说了句谢谢。",
+          "explanation": "不是客套的那种，是真心的那种。被认真感谢过的人，会记得这种被看见的感觉。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_024",
           "deckId": "you_unlocked",
-          "title": "路径有想法",
-          "punchline": "你的玩法和大多数人不一样。",
-          "explanation": "走野路的人，会有奇遇。",
+          "title": "一句问候",
+          "punchline": "你给那个久没联系的人发了“在吗”。",
+          "explanation": "关系会变冷，但也能再次烧暖。今天的“在吗”是一根小柴，要不要燃看对方。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "warm",
+            "glow"
           ]
         },
         {
           "id": "you_unlocked_025",
           "deckId": "you_unlocked",
-          "title": "解锁式生活",
-          "punchline": "你过日子也喜欢解锁新关。",
-          "explanation": "好奇心是稀有装备。",
+          "title": "没咽下去",
+          "punchline": "你这次没把那句喜欢咽回去。",
+          "explanation": "没回应也没关系。说出来本身就完成了对自己的交代——你没把它带进梦里。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "soft",
+            "warm"
           ]
         },
         {
           "id": "you_unlocked_026",
           "deckId": "you_unlocked",
-          "title": "偷偷往前走",
-          "punchline": "别人在排队，你已经在跑。",
-          "explanation": "你不靠流量，你靠路径。",
+          "title": "不刷 ta",
+          "punchline": "你今天没刷那个人的朋友圈。",
+          "explanation": "不是你不在意，是你不用通过刷新来确认。少看一次，多保留一份自己的注意力。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "mist"
           ]
         },
         {
           "id": "you_unlocked_027",
           "deckId": "you_unlocked",
-          "title": "收藏家体质",
-          "punchline": "你比设计师还了解每张卡。",
-          "explanation": "细心的人，命运多一份温柔。",
+          "title": "不必证明",
+          "punchline": "你今天没向不在意你的人解释自己。",
+          "explanation": "解释是有听众的对话。没听众的解释，回响到自己耳朵里更难受。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "peach",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_028",
           "deckId": "you_unlocked",
-          "title": "暗号识别",
-          "punchline": "你能看懂卡背后的小心思。",
-          "explanation": "你天生会读暗号。",
+          "title": "别人的赛道",
+          "punchline": "你今天没去和谁比进度。",
+          "explanation": "你的赛道宽得只够你一个人。看自己脚下，比看别人冲线更重要。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "mint",
+            "calm"
           ]
         },
         {
           "id": "you_unlocked_029",
           "deckId": "you_unlocked",
-          "title": "通关奖励",
-          "punchline": "本卡是给坚持的人的小奖。",
-          "explanation": "坚持本身就是奖励。",
+          "title": "不秀也行",
+          "punchline": "你今天经历了好事，没发出去。",
+          "explanation": "不是所有快乐都要让别人知道。私藏的喜悦，浓度更高。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_030",
           "deckId": "you_unlocked",
-          "title": "走得最远的人",
-          "punchline": "你已经走得比想象中远。",
-          "explanation": "你没意识到自己的耐心。",
+          "title": "不站队",
+          "punchline": "你这次没在那个争论里表态。",
+          "explanation": "不是每件事都需要你的意见。沉默不是没立场，是有更重要的事在等你的注意力。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "warm",
+            "glow"
           ]
         },
         {
           "id": "you_unlocked_031",
           "deckId": "you_unlocked",
-          "title": "安静的勤奋",
-          "punchline": "你不咋表态，但一直在走。",
-          "explanation": "默默的人最稳。",
+          "title": "想了三秒",
+          "punchline": "你今天慢了三秒才回。",
+          "explanation": "三秒不长，但够你听见自己。脱口而出的话有时不是你，是惯性。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "soft",
+            "warm"
           ]
         },
         {
           "id": "you_unlocked_032",
           "deckId": "you_unlocked",
-          "title": "隐藏路径",
-          "punchline": "你选的路，不是大路。",
-          "explanation": "小路的风景独属于你。",
+          "title": "让它等等",
+          "punchline": "你今天没立刻刷新那条对话。",
+          "explanation": "让消息再等一等，不会丢。但你刚才那一刻的清净，是你为自己挣到的。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "mist"
           ]
         },
         {
           "id": "you_unlocked_033",
           "deckId": "you_unlocked",
-          "title": "解锁权限",
-          "punchline": "你解锁了'被多看一眼'的特权。",
-          "explanation": "这一眼是给会走的人。",
+          "title": "不立刻发飙",
+          "punchline": "你今天看见一件烦事，没立刻反应。",
+          "explanation": "等情绪落地再开口，话语会更准。这不是憋着，是更会用力气。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "peach",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_034",
           "deckId": "you_unlocked",
-          "title": "没人陪也走",
-          "punchline": "你一个人走到了这里。",
-          "explanation": "独自前进也是一种酷。",
+          "title": "放购物车",
+          "punchline": "你今天把那个想要的放了三天。",
+          "explanation": "不是抠门，是给“想要”做一次质检。三天后还想要的，再买不晚。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "mint",
+            "calm"
           ]
         },
         {
           "id": "you_unlocked_035",
           "deckId": "you_unlocked",
-          "title": "慢热式开花",
-          "punchline": "你不是没动作，是慢慢绽放。",
-          "explanation": "慢的花最稳。",
+          "title": "没洗碗",
+          "punchline": "你今天没洗碗，也没事。",
+          "explanation": "碗会等。今天能不洗就不洗，明天再说。家不是 KPI 工厂。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_036",
           "deckId": "you_unlocked",
-          "title": "隐藏小富",
-          "punchline": "你的小富藏在分享里。",
-          "explanation": "看不见的资产是关系。",
+          "title": "没运动",
+          "punchline": "你今天没去跑步。",
+          "explanation": "习惯断了一天，没断。明天再开始，跟一直没断的人没区别。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "warm",
+            "glow"
           ]
         },
         {
           "id": "you_unlocked_037",
           "deckId": "you_unlocked",
-          "title": "探险家体质",
-          "punchline": "你喜欢看角落里有什么。",
-          "explanation": "角落的发现归你。",
+          "title": "没读完",
+          "punchline": "你今天没看完那本书。",
+          "explanation": "书会等你回来。不是每页都需要今天就读完。你的阅读节奏，由你定。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "soft",
+            "warm"
           ]
         },
         {
           "id": "you_unlocked_038",
           "deckId": "you_unlocked",
-          "title": "默默更新自己",
-          "punchline": "你一直在偷偷升级。",
-          "explanation": "外人看不出，但你知道。",
+          "title": "推到明天",
+          "punchline": "你今天把那件烦事推到明天。",
+          "explanation": "拖延不是失败，是大脑申请的一段缓冲。明天的你可能就有力气了。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "mist"
           ]
         },
         {
           "id": "you_unlocked_039",
           "deckId": "you_unlocked",
-          "title": "路过会捡",
-          "punchline": "你路过的小细节，别人没看见。",
-          "explanation": "捕捉的能力是天赋。",
+          "title": "留点白",
+          "punchline": "你今天的 to-do 没全打钩。",
+          "explanation": "留一两件没做完，不是失败，是给生活留呼吸。完美主义有时是焦虑伪装的。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "peach",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_040",
           "deckId": "you_unlocked",
-          "title": "走过会留",
-          "punchline": "你停过的地方，都会被你记住。",
-          "explanation": "记忆力是一种贵气。",
+          "title": "摸到呼吸",
+          "punchline": "你今天有一刻，注意到自己的呼吸。",
+          "explanation": "平时你都在想下一件事。这一刻你只是在呼气、吸气。这种回到身体里的瞬间，是小型的回家。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "mint",
+            "calm"
           ]
         },
         {
           "id": "you_unlocked_041",
           "deckId": "you_unlocked",
-          "title": "通关式生活",
-          "punchline": "你过得像在解 RPG。",
-          "explanation": "每天都在升级，没意识到罢了。",
+          "title": "放下肩膀",
+          "punchline": "你今天发现自己肩膀又耸起来了。",
+          "explanation": "然后你慢慢放下来。这一秒，你比刚才更松一点。身体在替你卸力，你只要允许。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_042",
           "deckId": "you_unlocked",
-          "title": "暗线选手",
-          "punchline": "你是这部生活剧的暗线。",
-          "explanation": "暗线往往最重要。",
+          "title": "看见自己",
+          "punchline": "你今天在镜子里多看了自己一眼。",
+          "explanation": "不是在挑刺，是在打招呼。今天的你存在，今天的你被自己看见。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "warm",
+            "glow"
           ]
         },
         {
           "id": "you_unlocked_043",
           "deckId": "you_unlocked",
-          "title": "收藏家人格",
-          "punchline": "你舍不得删掉那张图、那条消息。",
-          "explanation": "珍惜是细水长流的能力。",
+          "title": "嘴角放松",
+          "punchline": "你今天有一刻，嘴角不用礼貌着。",
+          "explanation": "真正放松的脸，自己也认得。允许它存在几秒，不必立刻装回去。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "soft",
+            "warm"
           ]
         },
         {
           "id": "you_unlocked_044",
           "deckId": "you_unlocked",
-          "title": "探宝者步调",
-          "punchline": "你走得不快，但走得稳。",
-          "explanation": "稳的人到得远。",
+          "title": "听到雨声",
+          "punchline": "你今天注意到外面在下雨。",
+          "explanation": "然后你听了一会儿。这种被天气短暂带走的注意力，是免费的。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "mist"
           ]
         },
         {
           "id": "you_unlocked_045",
           "deckId": "you_unlocked",
-          "title": "偷偷的强",
-          "punchline": "你不咋说，但什么都做完了。",
-          "explanation": "低调的实力是真正的实力。",
+          "title": "关掉滤镜",
+          "punchline": "你今天少刷了一会儿朋友圈。",
+          "explanation": "别人的高光不是日常，但刷多了你会忘记。少看一会儿，回到自己。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "peach",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_046",
           "deckId": "you_unlocked",
-          "title": "把生活玩出花",
-          "punchline": "你能在日常里找到隐藏关。",
-          "explanation": "好奇心比积分更值钱。",
+          "title": "真心高兴",
+          "punchline": "你看见好友的好消息，第一反应是真心高兴。",
+          "explanation": "没酸，没比。这种纯粹的为别人开心，是关系里很贵的礼物。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "mint",
+            "calm"
           ]
         },
         {
           "id": "you_unlocked_047",
           "deckId": "you_unlocked",
-          "title": "看见小奇迹",
-          "punchline": "你能看见小事里的奇迹。",
-          "explanation": "捕捉到光的人，光更亮。",
+          "title": "不看排名",
+          "punchline": "你今天没去看那个排行榜。",
+          "explanation": "你的进度不归任何指标定义。今天少看一次，多省一分电。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "soft"
           ]
         },
         {
           "id": "you_unlocked_048",
           "deckId": "you_unlocked",
-          "title": "不靠主线",
-          "punchline": "你不靠主线就能玩得好。",
-          "explanation": "你有自己的玩法。",
+          "title": "不追那个潮",
+          "punchline": "你今天没追那个潮流。",
+          "explanation": "你不必每个热点都到场。你有自己的兴趣点，那个才是你。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "warm",
+            "glow"
           ]
         },
         {
           "id": "you_unlocked_049",
           "deckId": "you_unlocked",
-          "title": "不被攻略",
-          "punchline": "你的生活，没人写得出攻略。",
-          "explanation": "你的路只属于你。",
+          "title": "在场了",
+          "punchline": "你今天为自己出席了。",
+          "explanation": "不是为了表现，不是为了被看见，就是来了，就是在了。光这件事就值得记一笔。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "soft",
+            "warm"
           ]
         },
         {
           "id": "you_unlocked_050",
           "deckId": "you_unlocked",
-          "title": "偷偷骄傲",
+          "title": "小骄傲",
           "punchline": "你心里偷偷骄傲过的事，今天可以承认。",
-          "explanation": "你做到了那些没人知道的小事。",
+          "explanation": "你做到了那些没人知道的小事。没人鼓掌也算数，你自己鼓一下就行。",
           "backgroundTags": [
             "hidden",
-            "unlock",
-            "lime"
+            "sky",
+            "mist"
           ]
         }
       ]
@@ -7493,7 +7493,7 @@
           "deckId": "quiet_room",
           "title": "软话私享",
           "punchline": "这句话只说给你听，别转。",
-          "explanation": "有些温柔不适合广播。心卡为你单独放音。",
+          "explanation": "有些温柔不适合广播。今天的这句话单独放音——不是因为它不能给别人，是因为现在它只想到你。",
           "backgroundTags": [
             "hidden",
             "quiet",
@@ -7613,7 +7613,7 @@
           "deckId": "quiet_room",
           "title": "进来歇会儿",
           "punchline": "走累了就进来，外面太大声。",
-          "explanation": "心卡是一个小角落。在这里你不必表现，只要在场。",
+          "explanation": "进来不必脱鞋，不必整理表情，不必解释为什么累。这里有一个小角落——你只要在场，不必表现。",
           "backgroundTags": [
             "hidden",
             "quiet",
@@ -8058,8 +8058,8 @@
           "id": "extra_comfort_006",
           "deckId": "extra_comfort",
           "title": "加倍可爱",
-          "punchline": "今天的你，可爱值是平时的两倍。",
-          "explanation": "可爱是免费续杯。今天给自己倒满，喝光也没人拦你。",
+          "punchline": "今天偷偷允许自己可爱一次。",
+          "explanation": "不必每天都“成熟”。今天允许自己说一句傻话、做一个无意义的小动作、嘟一下嘴——这种小可爱是给自己的，不需要被看见也成立。",
           "backgroundTags": [
             "hidden",
             "comfort",
@@ -8071,7 +8071,7 @@
           "deckId": "extra_comfort",
           "title": "心疼报销",
           "punchline": "你那些没说出口的心疼，今天可以报销。",
-          "explanation": "把它们一一记账。心卡做你的会计，今天结清。",
+          "explanation": "把它们一一记账：那次硬撑、那次没人接住的难过、那次本来想被抱抱但没人在——今天结清，不必继续欠自己。",
           "backgroundTags": [
             "hidden",
             "comfort",
@@ -8094,8 +8094,8 @@
           "id": "extra_comfort_009",
           "deckId": "extra_comfort",
           "title": "大力抱抱",
-          "punchline": "今天的抱抱不计算力度，随便用。",
-          "explanation": "你需要多紧抱多紧。心卡的抱抱无限量。",
+          "punchline": "今天的抱抱不计较力度。",
+          "explanation": "你需要多紧就抱多紧、需要多长就抱多长——没有上限。今天的抱抱不是稀缺资源，你也不必克制需要它的样子。",
           "backgroundTags": [
             "hidden",
             "comfort",
@@ -8119,7 +8119,7 @@
           "deckId": "extra_comfort",
           "title": "双倍允许",
           "punchline": "今天可以做两次让自己开心的事。",
-          "explanation": "一次怕浪费？那就两次。今天的额度心卡承包了。",
+          "explanation": "一次怕浪费？那就两次——一杯好咖啡 + 一段散步、一首歌 + 一本书、一次小买 + 一次发呆。今天的额度足够你慷慨。",
           "backgroundTags": [
             "hidden",
             "comfort",
@@ -8130,8 +8130,8 @@
           "id": "extra_comfort_012",
           "deckId": "extra_comfort",
           "title": "偏爱套餐",
-          "punchline": "今天的你，请享受 VIP 套餐。",
-          "explanation": "好饮、好歌、好觉。今天的套餐里，每一项都有你的份。",
+          "punchline": "今天的你，请享受全套照顾。",
+          "explanation": "好饮、好歌、好觉——这些不是奖品，是基础配置。今天把它们摆出来给自己——一杯认真泡的茶、一首专门挑的歌、一觉睡到自然醒。",
           "backgroundTags": [
             "hidden",
             "comfort",
@@ -8179,7 +8179,7 @@
           "deckId": "extra_comfort",
           "title": "双倍勇气",
           "punchline": "今天的勇气，分两次用。",
-          "explanation": "一次不够就两次。心卡帮你存货，需要时来取。",
+          "explanation": "一次不够就两次。勇气是可以预存的——今天用一次说“不”，剩下的留到明天用来说“试试”。两次都够用。",
           "backgroundTags": [
             "hidden",
             "comfort",
@@ -8202,8 +8202,8 @@
           "id": "extra_comfort_018",
           "deckId": "extra_comfort",
           "title": "加倍睡眠",
-          "punchline": "今天的睡眠请加倍，别省。",
-          "explanation": "多睡一会儿不会丢什么。今晚把存款补足，明天才有精神。",
+          "punchline": "今天的睡眠，别省。",
+          "explanation": "多睡一会儿不会丢什么。今晚把存款补足——身体记得每一小时的觉，明天的你会替今晚的你说谢谢。",
           "backgroundTags": [
             "hidden",
             "comfort",
@@ -8215,7 +8215,7 @@
           "deckId": "extra_comfort",
           "title": "今天加倍",
           "punchline": "你今天允许的事，今天就允许。",
-          "explanation": "不要等明天才开始好好对自己。今天开始，今天加倍。",
+          "explanation": "不要等明天才开始好好对自己。今天就允许那件让自己开心的小事——明天的你不一定有这份“允许”的心情，但今天有。",
           "backgroundTags": [
             "hidden",
             "comfort",
@@ -8526,8 +8526,8 @@
           "id": "extra_comfort_045",
           "deckId": "extra_comfort",
           "title": "安抚加倍",
-          "punchline": "今天的安抚，请加倍。",
-          "explanation": "一次不够。再来一次。",
+          "punchline": "今天的安抚，多来一次。",
+          "explanation": "一次不够就再来一次。摸摸自己的头、对自己说一句“今天辛苦了”、给自己倒杯水——这些动作是安抚的来源——做一次不够就做两次，没有上限。",
           "backgroundTags": [
             "hidden",
             "comfort",
@@ -8613,7 +8613,7 @@
           "deckId": "work_cooldown",
           "title": "班味在中等",
           "punchline": "今天的班味浓度，刚好够装上班那个人。",
-          "explanation": "你不必特别敬业。表面 OK 就行。",
+          "explanation": "上班那个人不必是完整的你。表面 OK、里面随意，就是成年人最经济的工作姿势。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8625,7 +8625,7 @@
           "deckId": "work_cooldown",
           "title": "摸鱼合法化",
           "punchline": "今天的鱼，可以摸。",
-          "explanation": "短暂划水是大脑给身体的奖励。",
+          "explanation": "大脑不是机器，连续工作八小时本来就反人类。摸一下鱼，是给紧绷的神经短暂松手。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8637,7 +8637,7 @@
           "deckId": "work_cooldown",
           "title": "打工人专属",
           "punchline": "打工人不必热爱工作。",
-          "explanation": "完成就行。热爱属于业余时间。",
+          "explanation": "完成任务和热爱事业，是两件事。把热爱留给真正喜欢的，工作完成就行。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8649,7 +8649,7 @@
           "deckId": "work_cooldown",
           "title": "周一面瘫日",
           "punchline": "周一的脸不必有表情。",
-          "explanation": "情绪还没醒。允许它慢启动。",
+          "explanation": "周日晚的暗涌还没散，身体已经在工位上了。给那张脸一上午的缓冲期，下午再恢复“正常人”也来得及。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8661,7 +8661,7 @@
           "deckId": "work_cooldown",
           "title": "钉钉静音",
           "punchline": "今天的工作群，先全部静音。",
-          "explanation": "通知会等。你的耳朵优先。",
+          "explanation": "通知会等。把消息推迟半小时不会塌方，但你那半小时的专注或安静，是你今天唯一能挣到的东西。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8673,7 +8673,7 @@
           "deckId": "work_cooldown",
           "title": "不想开会",
           "punchline": "今天的会议，我灵魂请假。",
-          "explanation": "肉身在场就够了。脑子可以飘。",
+          "explanation": "肉身在场就完成了出勤义务。脑子允许飘到午饭、飘到周末、飘到一只猫——不归会议管。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8685,7 +8685,7 @@
           "deckId": "work_cooldown",
           "title": "KPI 别看了",
           "punchline": "今天不查指标，先把命留住。",
-          "explanation": "数据不会逃跑。你先休息。",
+          "explanation": "数据不会逃跑。你先休息——指标可以被慢慢追上，但今天的电量耗完就只能等明天充。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8697,7 +8697,7 @@
           "deckId": "work_cooldown",
           "title": "茶水间 SPA",
           "punchline": "茶水间是今天的疗愈空间。",
-          "explanation": "三分钟独处也是充电。",
+          "explanation": "三分钟独处也是充电。茶水间不是补水的地方，是给你一个合法地“暂时不在”的小空间。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8709,7 +8709,7 @@
           "deckId": "work_cooldown",
           "title": "老板等等",
           "punchline": "老板的消息，先延后三十秒。",
-          "explanation": "立刻回不是义务。让自己有缓冲。",
+          "explanation": "立刻回不是义务，是你自己给自己设的紧箍咒。让消息晾一会儿，你那三十秒的清净是你挣到的。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8721,7 +8721,7 @@
           "deckId": "work_cooldown",
           "title": "周五倒数",
           "punchline": "你只需要撑到周五。",
-          "explanation": "短期目标比愿景更救命。",
+          "explanation": "短期目标比愿景救命。先别看年度规划，今天只要熬到周五，剩下的事周末再说。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8732,8 +8732,8 @@
           "id": "work_cooldown_011",
           "deckId": "work_cooldown",
           "title": "加班拒绝中",
-          "punchline": "今天的加班，本卡否决。",
-          "explanation": "下班是基本权利。请使用。",
+          "punchline": "今天的加班，自动否决。",
+          "explanation": "下班不是奖励，是基本权利。不必觉得“提前走”愧疚——你按合约工作，他们也按合约付钱。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8745,7 +8745,7 @@
           "deckId": "work_cooldown",
           "title": "班味卸妆",
           "punchline": "下班的第一件事，把班味卸了。",
-          "explanation": "回到自己的脸。",
+          "explanation": "回家路上那段时间，把工作的脸卸了。地铁里、电梯里、楼下便利店里，那张脸可以慢慢退场。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8757,7 +8757,7 @@
           "deckId": "work_cooldown",
           "title": "工资到账",
           "punchline": "今天的成就：工资还在路上。",
-          "explanation": "撑到工资日，就是赢。",
+          "explanation": "撑到工资日就是赢。理想可以下个月再谈，今天你只需要让卡里的数字不断刷新。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8769,7 +8769,7 @@
           "deckId": "work_cooldown",
           "title": "不当卷王",
           "punchline": "今天的卷，你不当主角。",
-          "explanation": "卷王让别人去做。你做人。",
+          "explanation": "卷王让别人去做。你可以稳定输出，但不必把命搭进去——卷出来的回报，一般跟付出不成比例。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8781,7 +8781,7 @@
           "deckId": "work_cooldown",
           "title": "摆烂权限",
           "punchline": "今天有一次摆烂权限。",
-          "explanation": "用了不扣分。摆烂也是工作技巧。",
+          "explanation": "用了不扣分。摆烂不是失败，是工作技巧——大脑会自己挑出最该做的那件，剩下的本来就可以缓。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8793,7 +8793,7 @@
           "deckId": "work_cooldown",
           "title": "表面认真",
           "punchline": "表面认真，里面 emo，都合理。",
-          "explanation": "成年人都会这两个程序并行。",
+          "explanation": "成年人都会这两个程序并行。表面正常和内心翻江倒海，可以同时存在，不矛盾。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8805,7 +8805,7 @@
           "deckId": "work_cooldown",
           "title": "周末预备役",
           "punchline": "脑子已经提前进入周末模式。",
-          "explanation": "提前到岗的不是身体，是灵魂。",
+          "explanation": "提前到岗的不是身体，是灵魂。周三下午开始期待周末，是大脑在自我保护，让你撑过剩下的工时。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8817,7 +8817,7 @@
           "deckId": "work_cooldown",
           "title": "钉钉假笑",
           "punchline": "工作群里的'好的'，不必走心。",
-          "explanation": "礼貌就够了。心力别浪费。",
+          "explanation": "群里的“好的”是格式，不是承诺。礼貌就够了，心力别浪费在一个表情符号上。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8829,7 +8829,7 @@
           "deckId": "work_cooldown",
           "title": "摸鱼有度",
           "punchline": "摸鱼也要节奏感。",
-          "explanation": "工作和划水穿插，效率反而高。",
+          "explanation": "工作和划水交替，效率反而比硬撑高。不是偷懒，是节奏感——大脑也需要呼气。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8841,7 +8841,7 @@
           "deckId": "work_cooldown",
           "title": "下班即换皮",
           "punchline": "下班一秒，自动卸下班人皮。",
-          "explanation": "你不是 24 小时职员。",
+          "explanation": "下班一秒，你不再代表公司。那张职场脸只在工时内出场，下班路上的你，可以重新换皮。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8853,7 +8853,7 @@
           "deckId": "work_cooldown",
           "title": "不当救火队",
           "punchline": "今天的紧急情况，不归你。",
-          "explanation": "别什么火都你去灭。",
+          "explanation": "不是每个紧急都是你的紧急。别人扔过来的火，你接住了就成了你的责任——今天先放手。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8865,7 +8865,7 @@
           "deckId": "work_cooldown",
           "title": "KPI 不挂心",
           "punchline": "今天的指标，不必背在心上。",
-          "explanation": "指标在表上。你不用在心里再背一遍。",
+          "explanation": "指标在表上，自己会更新。但你心力有限，每天背着 KPI 上下班，背成了肩颈病。先从心里卸下来。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8877,7 +8877,7 @@
           "deckId": "work_cooldown",
           "title": "工作群已读",
           "punchline": "今天的群消息，已读不回。",
-          "explanation": "你不是 24h 客服。",
+          "explanation": "你不是 24h 客服。已读不回不是失礼，是给自己留一个不被消息绑架的小空间。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8889,7 +8889,7 @@
           "deckId": "work_cooldown",
           "title": "不在工位",
           "punchline": "今天的灵魂不在工位。",
-          "explanation": "身体在场就行。灵魂请保管好自己。",
+          "explanation": "身体在场就行。灵魂请允许它去想下午茶、想下班、想任何不涉及“提交日期”的事。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8901,7 +8901,7 @@
           "deckId": "work_cooldown",
           "title": "出差怀疑人生",
           "punchline": "出差太多，怀疑自己是谁。",
-          "explanation": "记得问候一下原来的自己。",
+          "explanation": "出差多了人会忘了自己住在哪。今晚回酒店之前，跟原来那个你打个招呼——它还在等你。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8913,7 +8913,7 @@
           "deckId": "work_cooldown",
           "title": "学生党也累",
           "punchline": "上课和打工，一样耗电。",
-          "explanation": "学生不是青春版打工人，是同款。",
+          "explanation": "上课和打工一样耗电，学生不是“轻量版”。GPA、论文、社团、实习——你已经在多线程运行。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8925,7 +8925,7 @@
           "deckId": "work_cooldown",
           "title": "论文卡壳",
           "punchline": "今天的论文，自动延期一天。",
-          "explanation": "灵感请假，文档跟着请假。",
+          "explanation": "灵感请假，文档跟着请假——这不是拖延，是脑子在告诉你它需要时间发酵。明天再写，往往写得更顺。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8937,7 +8937,7 @@
           "deckId": "work_cooldown",
           "title": "报表别看",
           "punchline": "今天的报表，先存草稿箱。",
-          "explanation": "数字明天再追。今天它不追你。",
+          "explanation": "数字明天再追。今天那张报表放回草稿箱，世界不会因此停摆，但你今晚能睡得着。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8949,7 +8949,7 @@
           "deckId": "work_cooldown",
           "title": "老板的需求",
           "punchline": "老板的需求是流体，不必硬接。",
-          "explanation": "等他确认了再做。先别预跑。",
+          "explanation": "需求会变。等他确认完再动手——预跑的活，常常被一句“再改一下”重做三遍。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8961,7 +8961,7 @@
           "deckId": "work_cooldown",
           "title": "不接受 PUA",
           "punchline": "今天没人能对你说'你应该'。",
-          "explanation": "应该不是命令。你可以不应该。",
+          "explanation": "应该不是命令，是别人给你套的话术。今天你可以不应该——这两个字，本来就该问你愿不愿意。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8973,7 +8973,7 @@
           "deckId": "work_cooldown",
           "title": "班次结束",
           "punchline": "今天的班次到此为止。",
-          "explanation": "下班铃响了。给自己一个仪式。",
+          "explanation": "下班铃响了。从工位站起来那一刻，请给自己一个小仪式——伸个懒腰、整理桌面、关灯——告诉身体：班次结束。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8985,7 +8985,7 @@
           "deckId": "work_cooldown",
           "title": "摆烂日",
           "punchline": "今天的工作量，自动减半。",
-          "explanation": "标准放低，达成率立刻提高。",
+          "explanation": "标准放低，达成率立刻提高。今天把“完美”换成“完成”，反而能交出一份能用的东西。",
           "backgroundTags": [
             "mint",
             "office",
@@ -8997,7 +8997,7 @@
           "deckId": "work_cooldown",
           "title": "工时记账",
           "punchline": "你的时间值钱。不必白送。",
-          "explanation": "加班三小时，回报零。这是亏损。",
+          "explanation": "加班三小时换不到一句表扬的时候，那不是奉献，是亏损。把时间当资本去算，反而比当义务更靠谱。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9009,7 +9009,7 @@
           "deckId": "work_cooldown",
           "title": "不必感谢老板",
           "punchline": "今天的成绩，不归老板。",
-          "explanation": "你做的，是你的。",
+          "explanation": "你做的，是你的。这句话不必说出口，但要在心里立着——别人摘的果，记得是从你那棵树上摘的。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9021,7 +9021,7 @@
           "deckId": "work_cooldown",
           "title": "周一通勤",
           "punchline": "周一的地铁，比心情还挤。",
-          "explanation": "你不是迟到，是先调用了情绪资源。",
+          "explanation": "地铁挤到肩膀都没法转身的时候，你已经在调用情绪资源了。迟到几分钟不算迟到，是给身体一个缓冲。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9033,7 +9033,7 @@
           "deckId": "work_cooldown",
           "title": "茶歇加倍",
           "punchline": "今天的茶歇，请加长。",
-          "explanation": "效率不靠不停。",
+          "explanation": "效率不靠不停。多出来的那杯咖啡时间，是大脑后台在整理，等你回去坐下时反而更快。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9045,7 +9045,7 @@
           "deckId": "work_cooldown",
           "title": "同事远点",
           "punchline": "今天对同事，先建立物理隔离。",
-          "explanation": "不是冷淡。是节能。",
+          "explanation": "不是冷淡，是节能。今天少寒暄两句，省下的话留给真正想说的人。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9057,7 +9057,7 @@
           "deckId": "work_cooldown",
           "title": "工位静音",
           "punchline": "今天的工位，能静则静。",
-          "explanation": "你不必参与所有八卦。",
+          "explanation": "你不必参与所有八卦。耳朵关掉一部分，省下的注意力可以放到自己手头的事上。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9069,7 +9069,7 @@
           "deckId": "work_cooldown",
           "title": "不当背锅侠",
           "punchline": "今天的锅，请放下。",
-          "explanation": "不是你的责任，就不是你的责任。",
+          "explanation": "不是你的责任，就不是你的责任——哪怕氛围让你觉得“应该”接。锅放下不会重，但背久了会变形。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9081,7 +9081,7 @@
           "deckId": "work_cooldown",
           "title": "不必汇报",
           "punchline": "今天的进展，不必随时汇报。",
-          "explanation": "等它真的有进展再说。",
+          "explanation": "进展不必随时直播。等它真的有进展再说——过程汇报往往换来的是“再确认一遍”，不是认可。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9093,7 +9093,7 @@
           "deckId": "work_cooldown",
           "title": "KPI 不当真",
           "punchline": "KPI 不代表你这个人。",
-          "explanation": "数字是岗位的事。",
+          "explanation": "数字是岗位的事，不是你的事。岗位换了，那串数字就归别人；但你这个人，会带着自己走。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9105,7 +9105,7 @@
           "deckId": "work_cooldown",
           "title": "下班即关机",
           "punchline": "下班关机，工作群一起关。",
-          "explanation": "睡前不必再处理工作。",
+          "explanation": "下班关机的不只是设备，是那个一直在 standby 的自己。睡前不必再处理任何“职场版的你”。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9117,7 +9117,7 @@
           "deckId": "work_cooldown",
           "title": "通勤偷闲",
           "punchline": "通勤的时间，是你自己的。",
-          "explanation": "听歌、发呆、看树，都算赚。",
+          "explanation": "通勤的时间是你自己的——不是公司的延伸。听歌、发呆、看树、刷小说，都算把这段时间赚回来。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9129,7 +9129,7 @@
           "deckId": "work_cooldown",
           "title": "工作不必赢",
           "punchline": "今天上班，不必表现优异。",
-          "explanation": "稳过即可。",
+          "explanation": "稳过即可。不必每天表现优异——优秀是奖学金的事，今天只要别犯错就足够。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9141,7 +9141,7 @@
           "deckId": "work_cooldown",
           "title": "不应酬",
           "punchline": "今天的酒局，能推就推。",
-          "explanation": "你不欠任何人一个晚饭。",
+          "explanation": "你不欠任何人一个晚饭。能推就推——比起酒桌上的“应酬完成度”，回家躺着才是这一天的真正胜负点。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9153,7 +9153,7 @@
           "deckId": "work_cooldown",
           "title": "打个卡就赢",
           "punchline": "今天上班，打个卡就赢。",
-          "explanation": "打卡本身就是成就。",
+          "explanation": "打卡本身就是成就。今天能从床上爬起来、能挤进地铁、能坐到工位上，已经赢了一半。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9165,7 +9165,7 @@
           "deckId": "work_cooldown",
           "title": "项目熬过去",
           "punchline": "项目快结束了，撑一下。",
-          "explanation": "尾声往往最难。也最近终点。",
+          "explanation": "尾声往往最难，但也最近终点。再撑一下——不是为了表现，是为了让自己有资格在结束那天彻底松一口气。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9177,7 +9177,7 @@
           "deckId": "work_cooldown",
           "title": "摆烂也要美",
           "punchline": "摆烂的姿势，请优雅。",
-          "explanation": "美感是你最后的尊严。",
+          "explanation": "美感是你最后的尊严。摆烂的时候也别失态——优雅地不干活，是一种本事。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9189,7 +9189,7 @@
           "deckId": "work_cooldown",
           "title": "不必内卷",
           "punchline": "今天不和谁比。",
-          "explanation": "卷是别人的事。你做自己的事。",
+          "explanation": "卷是别人的事。你做自己的事——不抬头看，不比进度，今天你只跟昨天的自己比。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9201,7 +9201,7 @@
           "deckId": "work_cooldown",
           "title": "班味洗澡",
           "punchline": "回家先把班味洗掉。",
-          "explanation": "热水冲三分钟，重置一次自己。",
+          "explanation": "热水冲三分钟，水声把工位的噪音盖过去。冲下来的不是身体的汗，是脑子里那些没说完的会议。",
           "backgroundTags": [
             "mint",
             "office",
@@ -9227,7 +9227,7 @@
           "deckId": "social_battery",
           "title": "社交电量 5%",
           "punchline": "今天的社交电量，红了。",
-          "explanation": "请勿打扰。低电量模式。",
+          "explanation": "像手机自动开省电模式那种红。表情、回复、寒暄都会减半，今天暂停营业。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9239,7 +9239,7 @@
           "deckId": "social_battery",
           "title": "群消息延后",
           "punchline": "群里 99+ 条，先放一边。",
-          "explanation": "不是你冷漠，是耳朵需要休息。",
+          "explanation": "99+ 看一眼就累。那些消息不会消失，但你那 30 秒的“不知道”是你今天能挣到的一种轻松。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9251,7 +9251,7 @@
           "deckId": "social_battery",
           "title": "I 人之夜",
           "punchline": "今天的我，是 I 到底。",
-          "explanation": "外向不是义务。安静才是补给。",
+          "explanation": "I 不是性格缺陷，是充电方式。今天给自己合法的一个人时间，不必为“不够外向”道歉。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9263,7 +9263,7 @@
           "deckId": "social_battery",
           "title": "临时取消",
           "punchline": "今天的局，请允许我取消。",
-          "explanation": "你的体力不归别人调度。",
+          "explanation": "答应过的不必硬扛。说句“今晚不舒服”，比硬着头皮去然后全程冷场更体面。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9275,7 +9275,7 @@
           "deckId": "social_battery",
           "title": "沉默是金",
           "punchline": "今天少说一句，省一格电。",
-          "explanation": "话不必多。意思到了就行。",
+          "explanation": "多说一句是社交的礼貌，但你今天没那么多电。能用一句说完的，就别多两句去补习惯。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9287,7 +9287,7 @@
           "deckId": "social_battery",
           "title": "不想视频",
           "punchline": "今天不开摄像头。",
-          "explanation": "你的脸不必随时待机。",
+          "explanation": "视频会议看着脸比看着 ppt 累。今天关掉摄像头，留点脸给自己，留点电给重要的事。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9299,7 +9299,7 @@
           "deckId": "social_battery",
           "title": "三人以上免谈",
           "punchline": "今天的社交上限：两个人。",
-          "explanation": "超出就关闭报名。",
+          "explanation": "两个人是亲密的最大公约数，超出就开始消耗。今天给自己一个明确的容量上限。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9311,7 +9311,7 @@
           "deckId": "social_battery",
           "title": "群聊静音",
           "punchline": "今天的群聊，全静音。",
-          "explanation": "你不必参与每一次热闹。",
+          "explanation": "群聊的热闹是别人的节奏。静音不是退出，是把“在不在听”的开关握回自己手里。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9323,7 +9323,7 @@
           "deckId": "social_battery",
           "title": "微信先关",
           "punchline": "今天的微信，先关闭。",
-          "explanation": "断网三十分钟，世界不会塌。",
+          "explanation": "三十分钟没回复，没有人因此死掉。但你那三十分钟的清净，可能是今天唯一不被打断的呼吸。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9335,7 +9335,7 @@
           "deckId": "social_battery",
           "title": "通话拒接",
           "punchline": "今天打电话来的人，请改发消息。",
-          "explanation": "你的耳朵今天不接客。",
+          "explanation": "电话比消息累很多——它要求你立刻、连贯、有反应。今天的耳朵不接客，请改文字邮箱。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9347,7 +9347,7 @@
           "deckId": "social_battery",
           "title": "见面爽约",
           "punchline": "今天的约，下次再说。",
-          "explanation": "状态比承诺重要。",
+          "explanation": "答应过不是合同。状态不好的时候硬赴，反而会让对方接收到一个不在场的你——双方都尴尬。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9359,7 +9359,7 @@
           "deckId": "social_battery",
           "title": "朋友等我",
           "punchline": "好朋友会理解你今天需要躲一下。",
-          "explanation": "真朋友不催你回。",
+          "explanation": "真朋友会等你回血。你不必为“暂时消失”补一份解释，对方知道你不是消失了，只是在充电。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9371,7 +9371,7 @@
           "deckId": "social_battery",
           "title": "派对耳塞",
           "punchline": "派对里也可以戴上隐形耳塞。",
-          "explanation": "你在场，灵魂不在场也合法。",
+          "explanation": "派对的喧嚣不一定要全盘接收。耳朵物理戴一个隐形屏障，灵魂偷偷离开五分钟，没人会发现。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9383,7 +9383,7 @@
           "deckId": "social_battery",
           "title": "八卦免疫",
           "punchline": "今天的八卦，请自动屏蔽。",
-          "explanation": "你不是信息中转站。",
+          "explanation": "八卦是别人家的故事，听多了脑子会被借走。今天耳朵关掉一档，省下来的注意力留给自己。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9395,7 +9395,7 @@
           "deckId": "social_battery",
           "title": "不当中间人",
           "punchline": "今天的协调工作，请别人来。",
-          "explanation": "你不必每次都当桥。",
+          "explanation": "你不必每次都是那个传话的人。桥用久了会塌，今天先把自己从中间位置撤回来。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9407,7 +9407,7 @@
           "deckId": "social_battery",
           "title": "自我陪伴",
           "punchline": "今天的最佳伴侣是你自己。",
-          "explanation": "独处不是孤单。",
+          "explanation": "独处不是退而求其次。能自己跟自己待一整天，是一种能力——很多人做不到，所以才一直找人。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9419,7 +9419,7 @@
           "deckId": "social_battery",
           "title": "一个人吃饭",
           "punchline": "今天没人陪也不孤单。",
-          "explanation": "一个人吃饭也是合法活动。",
+          "explanation": "一个人吃饭不是失败的标志。能专心尝出食物的味道，反而比聚餐时低头扒拉两口要丰盛。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9431,7 +9431,7 @@
           "deckId": "social_battery",
           "title": "婉拒邀请",
           "punchline": "今天的邀请，礼貌婉拒。",
-          "explanation": "拒绝不是失礼。是边界。",
+          "explanation": "拒绝可以温柔。“今天不太方便”是完整的句子，不必凑解释，不必道歉到底——边界就是边界。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9443,7 +9443,7 @@
           "deckId": "social_battery",
           "title": "没空回消息",
           "punchline": "今天的消息，请改天回。",
-          "explanation": "没空也是合法理由。",
+          "explanation": "“改天回”不是欠条。没空就是没空，不必为这三个字找一段配套的故事。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9455,7 +9455,7 @@
           "deckId": "social_battery",
           "title": "一句话就够",
           "punchline": "今天的回复，限一句话。",
-          "explanation": "省字数等于省体力。",
+          "explanation": "一句话能说清的，别拉成三段。省下来的字数和力气，留给真正要花的对话。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9467,7 +9467,7 @@
           "deckId": "social_battery",
           "title": "朋友也累人",
           "punchline": "好朋友也会让人累。",
-          "explanation": "累不是不爱。是体力问题。",
+          "explanation": "爱和累是两件事，可以同时存在。今天累了不代表友谊有问题，只代表你的耳朵需要短暂离场。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9479,7 +9479,7 @@
           "deckId": "social_battery",
           "title": "接电话恐惧",
           "punchline": "看见来电立刻紧张，是正常的。",
-          "explanation": "电话比消息累得多。",
+          "explanation": "来电焦虑很普遍。文字给你写错重来的余地，电话不给——所以脑子才会本能地抗拒。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9491,7 +9491,7 @@
           "deckId": "social_battery",
           "title": "不想合照",
           "punchline": "今天不想出镜。",
-          "explanation": "你不必每次都参与影像记录。",
+          "explanation": "不想被拍是合法权利。生活不是要每个瞬间都被保存才有意义，有些时刻只属于在场的那个你。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9503,7 +9503,7 @@
           "deckId": "social_battery",
           "title": "朋友圈隐身",
           "punchline": "今天朋友圈，先关闭。",
-          "explanation": "不发不看，是合法选项。",
+          "explanation": "别人的高光不是日常。不刷一天，回到自己的房间——你会发现没错过什么真的重要的事。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9515,7 +9515,7 @@
           "deckId": "social_battery",
           "title": "信息延时",
           "punchline": "今天的回复，请按 24h 延后。",
-          "explanation": "立刻回不是友善。是被绑架。",
+          "explanation": "即时回复不是义务感而是焦虑感——担心对方不开心。但好关系不靠秒回维系。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9527,7 +9527,7 @@
           "deckId": "social_battery",
           "title": "拒绝陪聊",
           "punchline": "今天没人有权找你陪聊。",
-          "explanation": "你不是聊天机器人。",
+          "explanation": "陪聊也是劳动。今天的劳动配额已用完，请明天再来——你不是 24h 在线的耳朵。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9539,7 +9539,7 @@
           "deckId": "social_battery",
           "title": "群活动免参",
           "punchline": "今天的群活动，免参加。",
-          "explanation": "请假权限你一直有。",
+          "explanation": "群活动是邀请不是命令。明确说不参加，比假装“今晚有事”省心——下次也更轻松。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9551,7 +9551,7 @@
           "deckId": "social_battery",
           "title": "见面改期",
           "punchline": "已经约好的，可以临时改期。",
-          "explanation": "心情比计划重要。",
+          "explanation": "计划是为人服务的，不是反过来。心情不到的时候硬上，是对自己也对对方的不负责。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9563,7 +9563,7 @@
           "deckId": "social_battery",
           "title": "不当主持人",
           "punchline": "今天的局，不必你来组织。",
-          "explanation": "组织者轮换。今天不是你。",
+          "explanation": "你不是默认的组织者。今天让别人安排，看他们怎么协调——你休息的时候，世界也转得起来。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9575,7 +9575,7 @@
           "deckId": "social_battery",
           "title": "朋友能等",
           "punchline": "好朋友会等你回血。",
-          "explanation": "他们不是急客。",
+          "explanation": "急着要回应的，往往不是真的关心你的人。好朋友给你的是一个不必立刻回的角落。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9587,7 +9587,7 @@
           "deckId": "social_battery",
           "title": "假笑下班",
           "punchline": "今天的假笑配额已用完。",
-          "explanation": "脸今天罢工。",
+          "explanation": "假笑会消耗真实的力气。今天那张脸罢工，也是给真实笑容留位置——配额是有限的。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9599,7 +9599,7 @@
           "deckId": "social_battery",
           "title": "不和陌生人",
           "punchline": "今天对陌生人，可以零互动。",
-          "explanation": "你不欠他们一个微笑。",
+          "explanation": "路人不是熟人。今天少笑一个礼貌微笑，没人因此受伤——你也省下来一份能给亲近人的力气。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9611,7 +9611,7 @@
           "deckId": "social_battery",
           "title": "咖啡独享",
           "punchline": "今天的咖啡，自己喝。",
-          "explanation": "不必约。独享是高级体验。",
+          "explanation": "独自喝一杯咖啡，能尝出层次。两个人的咖啡是社交，一个人的咖啡是味道——今天你选第二种。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9623,7 +9623,7 @@
           "deckId": "social_battery",
           "title": "闺蜜延期",
           "punchline": "和闺蜜的约，可以延期。",
-          "explanation": "她懂的。",
+          "explanation": "真闺蜜不是天天见的那种。延期不会让关系变冷，相反——她可能也在等你说“今天不见也行”。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9635,7 +9635,7 @@
           "deckId": "social_battery",
           "title": "不参加聚餐",
           "punchline": "今天的聚餐，请假合法。",
-          "explanation": "胃和心都不想热闹。",
+          "explanation": "聚餐是消耗的活动。胃要吃，心要听，嘴要回应——三样同时启动，今天电量不够。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9647,7 +9647,7 @@
           "deckId": "social_battery",
           "title": "沉默回应",
           "punchline": "今天可以只点头不说话。",
-          "explanation": "肢体语言也算交流。",
+          "explanation": "点头、一个眼神、一个小微笑，都是完整的交流。语言不是必须的，沉默也可以参与对话。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9659,7 +9659,7 @@
           "deckId": "social_battery",
           "title": "朋友圈静默",
           "punchline": "今天的朋友圈，潜水模式。",
-          "explanation": "看不看都不重要。",
+          "explanation": "潜水不是冷漠，是节能。少看几条朋友圈，多空出一点情绪带宽给自己手头的事。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9671,7 +9671,7 @@
           "deckId": "social_battery",
           "title": "不当垃圾桶",
           "punchline": "今天不当任何人的情绪垃圾桶。",
-          "explanation": "你的耳朵也需要喘息。",
+          "explanation": "接情绪也是力气活。今天那个垃圾桶满了，请别人把内容暂存——不是不关心，是你需要先腾空。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9683,7 +9683,7 @@
           "deckId": "social_battery",
           "title": "邀请池关闭",
           "punchline": "今天的邀请通道关闭。",
-          "explanation": "请明天再来。",
+          "explanation": "通道关闭不是永久断网，是今天闭关。任何邀请、合作、聊天，都先排队到明天再说。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9695,7 +9695,7 @@
           "deckId": "social_battery",
           "title": "拒绝合群",
           "punchline": "今天不必合群。",
-          "explanation": "你不在的那个小圈子，也不会缺你。",
+          "explanation": "合群是一种社交礼仪，不是义务。你不在的圈子继续转，他们也不会觉得少了你——今天先回到自己。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9707,7 +9707,7 @@
           "deckId": "social_battery",
           "title": "心情匿名",
           "punchline": "今天的心情，匿名发布。",
-          "explanation": "不必让所有人都知道你怎么了。",
+          "explanation": "心情不是公告。能不署名地说说，反而更轻——不用考虑哪些朋友会“关心”，不用准备回复。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9719,7 +9719,7 @@
           "deckId": "social_battery",
           "title": "拒绝寒暄",
           "punchline": "今天的寒暄，省略。",
-          "explanation": "直接说事更省力。",
+          "explanation": "“在吗 / 吃了吗 / 最近怎么样”是社交润滑剂，但润滑剂多了反而黏。今天直接进入正题，省了双方力气。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9731,7 +9731,7 @@
           "deckId": "social_battery",
           "title": "不接力",
           "punchline": "今天的情绪接力，到你为止。",
-          "explanation": "你不必接住每个人的爆炸。",
+          "explanation": "别人的情绪不是你的责任。接住一两次是关心，每次都接是耗尽——今天让它停在你这里。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9743,7 +9743,7 @@
           "deckId": "social_battery",
           "title": "单方面打烊",
           "punchline": "今天我先关门。",
-          "explanation": "你有权关闭社交营业时间。",
+          "explanation": "你不是 24h 便利店。今天提前关门，门口的“营业中”牌子翻成“打烊”——别人会理解，你也会更稳。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9755,7 +9755,7 @@
           "deckId": "social_battery",
           "title": "朋友再加载",
           "punchline": "今天的朋友功能，请稍后再加载。",
-          "explanation": "我先重启自己。",
+          "explanation": "朋友功能需要电力。今天先重启自己的系统，等内存清出来，再让朋友功能上线。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9767,7 +9767,7 @@
           "deckId": "social_battery",
           "title": "不想被找",
           "punchline": "今天希望没人来找我。",
-          "explanation": "希望被找不到，是合理愿望。",
+          "explanation": "“希望失踪一天”是普遍想法。这不是反社会，是大脑的紧急备份模式——隐身一天，明天回来更完整。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9779,7 +9779,7 @@
           "deckId": "social_battery",
           "title": "自我托管",
           "punchline": "今天我把自己托管给自己。",
-          "explanation": "其他人请明天再来认领。",
+          "explanation": "今天的你只属于你。别人的需求、期待、问候，全部先寄存到明天——你今天的责任是照顾这个托管对象。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9791,7 +9791,7 @@
           "deckId": "social_battery",
           "title": "不被打扰",
           "punchline": "今天没人能打扰你。",
-          "explanation": "扔出'勿扰'两个字就够了。",
+          "explanation": "“勿扰”两个字是完整的句子。不必解释为什么、不必道歉、不必承诺什么时候回——它本身就是答案。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9803,7 +9803,7 @@
           "deckId": "social_battery",
           "title": "群@免响应",
           "punchline": "今天的@也可以无视。",
-          "explanation": "你不是 24 小时在线。",
+          "explanation": "群里的@像是合法的打扰。但即时性是别人的需求，不是你的——今天那个红点先放着。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9815,7 +9815,7 @@
           "deckId": "social_battery",
           "title": "静音的可贵",
           "punchline": "今天的安静，是奢侈品。",
-          "explanation": "请珍惜地享用。",
+          "explanation": "安静在这个时代是稀缺资源。今天偶然得到的一段静，请慢慢享用——它不会每天都来。",
           "backgroundTags": [
             "lilac",
             "glass",
@@ -9841,7 +9841,7 @@
           "deckId": "weekend_request",
           "title": "周末预批",
           "punchline": "今天的周末模式，已批准。",
-          "explanation": "请尽情躺平。",
+          "explanation": "不必给周末找理由。被一个虚拟的“已批准”接住的瞬间，肩膀就能松半寸。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -9853,7 +9853,7 @@
           "deckId": "weekend_request",
           "title": "周五自由",
           "punchline": "周五傍晚，灵魂提前下班。",
-          "explanation": "你已经熬到周末。给自己鼓掌。",
+          "explanation": "灵魂比身体先嗅到周末。你的身体可能还在工位，但内部已经开始预热——这种提前是合理的奖励。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -9865,7 +9865,7 @@
           "deckId": "weekend_request",
           "title": "周日焦虑",
           "punchline": "周日傍晚的焦虑，请允许它存在。",
-          "explanation": "Sunday scaries 是真的。它会过去。",
+          "explanation": "周日傍晚的胃部紧缩感是真的，全世界共享。允许它出现，给它一杯热水的时间——它会和你一起睡过去。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -9877,7 +9877,7 @@
           "deckId": "weekend_request",
           "title": "周一缓启动",
           "punchline": "周一不必立刻 100%。",
-          "explanation": "早晨慢一点，世界等得起。",
+          "explanation": "周一的清晨是大脑最难启动的时候。给前两个小时一个“渐入”的缓冲，下午再恢复满血。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -9889,7 +9889,7 @@
           "deckId": "weekend_request",
           "title": "床很重要",
           "punchline": "今天的床，是你的避风港。",
-          "explanation": "在床上多待二十分钟不算浪费。",
+          "explanation": "床有它自己的疗愈功率。多躺二十分钟，不是懒，是身体在为这一天充电——比立刻起床更值得。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -9901,7 +9901,7 @@
           "deckId": "weekend_request",
           "title": "早午餐合一",
           "punchline": "今天早饭午饭合一。",
-          "explanation": "你有权重新定义时间。",
+          "explanation": "周末的时间感是弹性的。早午餐合一不是省略，是把两顿饭的舒适合二为一——慢慢吃，没人催。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -9913,7 +9913,7 @@
           "deckId": "weekend_request",
           "title": "不出门也好",
           "punchline": "今天不出门，是合法选择。",
-          "explanation": "宅是体力管理。",
+          "explanation": "宅不是社交失败。今天选择不出门，是给自己一个不被外界刺激的空间——回血的速度会比预期快。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -9925,7 +9925,7 @@
           "deckId": "weekend_request",
           "title": "闹钟谋杀案",
           "punchline": "今天的闹钟，被你判了死刑。",
-          "explanation": "睡到自然醒是基本人权。",
+          "explanation": "闹钟是工作日的契约，不是周末的法律。睡到自然醒，是身体替你决定的——它知道什么时候醒最舒服。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -9937,7 +9937,7 @@
           "deckId": "weekend_request",
           "title": "没有清单",
           "punchline": "今天没有 to do list。",
-          "explanation": "随便过也是过。",
+          "explanation": "没清单的一天不是浪费的一天。没目标地走、没规划地睡，会让大脑后台自动整理一些之前来不及想的事。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -9949,7 +9949,7 @@
           "deckId": "weekend_request",
           "title": "懒人套餐",
           "punchline": "今天的菜单：床 + 手机 + 外卖。",
-          "explanation": "三件套就够。",
+          "explanation": "三件套是周末的极简哲学。不必每个周末都“有意义”，有时候活得像植物，也是一种生命力。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -9961,7 +9961,7 @@
           "deckId": "weekend_request",
           "title": "待办延期",
           "punchline": "周末的所有待办，自动延后。",
-          "explanation": "周一再说。",
+          "explanation": "周末的代办其实是工作日的延伸。今天明确地把它们扔到周一，肩膀立刻轻一档。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -9973,7 +9973,7 @@
           "deckId": "weekend_request",
           "title": "早午慢吃",
           "punchline": "今天的早午餐，慢慢吃。",
-          "explanation": "时间是你的。",
+          "explanation": "慢慢吃不是浪费时间，是把时间还给嘴。能尝出食物的层次，比拍照发朋友圈更值得。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -9985,7 +9985,7 @@
           "deckId": "weekend_request",
           "title": "沙发地图",
           "punchline": "今天的活动范围：沙发到冰箱。",
-          "explanation": "短距离也算锻炼。",
+          "explanation": "沙发到冰箱五米路，比起从床到沙发已经是进步。短距离活动也是活动，不必每天五公里。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -9997,7 +9997,7 @@
           "deckId": "weekend_request",
           "title": "假期前奏",
           "punchline": "假期还有 X 天，撑一下。",
-          "explanation": "倒计时本身就是动力。",
+          "explanation": "倒计时是大脑发明的应急燃料。每天少一个数字，就少一分压力——这种心理算术，是有效的。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10009,7 +10009,7 @@
           "deckId": "weekend_request",
           "title": "不为周末计划",
           "punchline": "周末不必有安排。",
-          "explanation": "没计划是最好的计划。",
+          "explanation": "周末的安排越满，越像加班的延伸。今天什么都不计划，反而能听见自己真正想做什么。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10021,7 +10021,7 @@
           "deckId": "weekend_request",
           "title": "假装周末",
           "punchline": "今天可以伪装成周末。",
-          "explanation": "心理周末也是周末。",
+          "explanation": "心理周末是合法的。哪怕今天是工作日，给自己内心一个“周末状态”，效率反而比硬撑要高。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10033,7 +10033,7 @@
           "deckId": "weekend_request",
           "title": "周末迟到",
           "punchline": "今天周末晚一点开始，没关系。",
-          "explanation": "晚启动比不启动好。",
+          "explanation": "周末从中午十二点开始也算周末。早晨没“利用起来”不是失败，是身体给你需要的修复时间。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10045,7 +10045,7 @@
           "deckId": "weekend_request",
           "title": "假期延迟症",
           "punchline": "假期总觉得才开始就结束了。",
-          "explanation": "时间感是错的。其实你休到了。",
+          "explanation": "假期的时间感是被压缩的——大脑只记得“过去得太快”。但你确实休到了，身体记得，明天会感谢今天。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10057,7 +10057,7 @@
           "deckId": "weekend_request",
           "title": "雨天合法",
           "punchline": "今天下雨，就该窝着。",
-          "explanation": "天气替你做了选择。",
+          "explanation": "雨天是合法的“什么都不做”许可证。天气帮你拒绝了所有邀请，你只负责欣赏窗外的灰。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10069,7 +10069,7 @@
           "deckId": "weekend_request",
           "title": "周末发呆",
           "punchline": "今天的活动是发呆。",
-          "explanation": "无用之用是大用。",
+          "explanation": "发呆时大脑在做最高效的整理。看似什么都没做的二十分钟，可能解决了你两周想不通的事。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10081,7 +10081,7 @@
           "deckId": "weekend_request",
           "title": "不刷手机",
           "punchline": "今天可以放下手机一小时。",
-          "explanation": "试试看世界还在不在。",
+          "explanation": "手机拿开一小时，会发现时间变长了。这一小时里，你能听见冰箱的声音，能看见光从窗外移动。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10093,7 +10093,7 @@
           "deckId": "weekend_request",
           "title": "回笼觉",
           "punchline": "睡个回笼觉是周末特权。",
-          "explanation": "再睡半小时不会塌方。",
+          "explanation": "回笼觉是身体给你的额外礼物——周末才能领取。半小时的回笼，比正经一夜的睡眠还甜。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10105,7 +10105,7 @@
           "deckId": "weekend_request",
           "title": "出门审查",
           "punchline": "今天出门，必须有充分理由。",
-          "explanation": "门口的审批员是你自己。",
+          "explanation": "你是自己出门的审批员。今天的理由不达标？直接驳回——回到沙发，没人会上诉。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10117,7 +10117,7 @@
           "deckId": "weekend_request",
           "title": "周末请客",
           "punchline": "今天给自己做一顿好的。",
-          "explanation": "对自己请客最值得。",
+          "explanation": "做饭是缓慢的禅修。切、煮、闻、吃——每一步都是把注意力收回到此刻。值得对自己慷慨一次。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10129,7 +10129,7 @@
           "deckId": "weekend_request",
           "title": "不必社交",
           "punchline": "周末也允许不见人。",
-          "explanation": "独处也是节日活动。",
+          "explanation": "独处不是缺席。一个人过的周末，可以有书、有光、有发呆，不必是热闹才有“过节”。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10141,7 +10141,7 @@
           "deckId": "weekend_request",
           "title": "不上闹钟",
           "punchline": "明天不设闹钟。",
-          "explanation": "醒了就醒。",
+          "explanation": "不设闹钟的早晨，时间会自己处理。醒得早就早，晚就晚——身体的节奏其实最准。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10153,7 +10153,7 @@
           "deckId": "weekend_request",
           "title": "周末远行",
           "punchline": "今天远行可以只是去阳台。",
-          "explanation": "出门标准放低。",
+          "explanation": "阳台也是地理位置。换一个角度看天空，已经算“出门”——周末的远行可以这么便宜。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10165,7 +10165,7 @@
           "deckId": "weekend_request",
           "title": "朋友周末延期",
           "punchline": "周末的约，宽松一点。",
-          "explanation": "迟到、改时间都允许。",
+          "explanation": "周末的约不是工作的约。迟到十五分钟、改约第二天，对方多半也松一口气——大家都不想紧绷。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10177,7 +10177,7 @@
           "deckId": "weekend_request",
           "title": "假期 vibe",
           "punchline": "今天调成假期 vibe。",
-          "explanation": "心理切换比身体切换重要。",
+          "explanation": "假期不一定要去远方。心里调成“放假状态”，泡杯茶、关一会儿群，已经是有效切换。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10189,7 +10189,7 @@
           "deckId": "weekend_request",
           "title": "周末仪式",
           "punchline": "今天给周末一个小仪式。",
-          "explanation": "一杯特别的、一首歌、一段散步。",
+          "explanation": "仪式不必复杂。一杯平时不会喝的茶、一段平时不会走的路，就够给周末打上“和工作日不一样”的标记。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10201,7 +10201,7 @@
           "deckId": "weekend_request",
           "title": "懒妆日",
           "punchline": "今天可以不化妆。",
-          "explanation": "脸也想休息。",
+          "explanation": "不化妆的脸是真实的脸。它需要呼吸、晒一点光、休息一天——化妆不是日常默认，是社交需要。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10213,7 +10213,7 @@
           "deckId": "weekend_request",
           "title": "床上工作日",
           "punchline": "今天的工作场所是床。",
-          "explanation": "床是合格工位。",
+          "explanation": "床也是合格的工作面。如果今天真的得做点事，那就在床上做——舒服比效率重要。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10225,7 +10225,7 @@
           "deckId": "weekend_request",
           "title": "不必早起",
           "punchline": "今天不必早起。",
-          "explanation": "睡到几点都行。",
+          "explanation": "早起是工作日的契约。周末解约——醒来的时间归你身体决定，不归别人也不归手机。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10237,7 +10237,7 @@
           "deckId": "weekend_request",
           "title": "假期愿望",
           "punchline": "今天许一个假期愿望。",
-          "explanation": "实现不重要。许愿本身就够。",
+          "explanation": "许愿是大脑的浪漫训练。你想去日本、想换工作、想养只猫——说出来一次，就比闷着更有可能成。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10249,7 +10249,7 @@
           "deckId": "weekend_request",
           "title": "周末翻牌",
           "punchline": "今天翻到的，都是好牌。",
-          "explanation": "运气在你这边。",
+          "explanation": "心理暗示是有用的。今天告诉自己“我今天是 lucky 的那一个”，世界不一定真的配合，但你看世界的角度会变。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10261,7 +10261,7 @@
           "deckId": "weekend_request",
           "title": "开支延期",
           "punchline": "假期的开销，记账可以延期。",
-          "explanation": "今天先享受。",
+          "explanation": "记账是工作日的事。今天的咖啡、奶茶、电影票，先享受，回来再算——心情和钱包之间留一天缓冲。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10273,7 +10273,7 @@
           "deckId": "weekend_request",
           "title": "周末爽剧",
           "punchline": "今天的爽剧，刷到爽。",
-          "explanation": "刷剧也是合法休息。",
+          "explanation": "刷剧不是浪费时间，是给情绪一个出口。哭一场、笑一场，比闷着不动的“高效休息”管用。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10285,7 +10285,7 @@
           "deckId": "weekend_request",
           "title": "被子不必叠",
           "punchline": "今天的被子，不必叠。",
-          "explanation": "完美主义请假。",
+          "explanation": "被子不叠的房间不是失败的房间。完美主义今天放假——回来时它会发现你也没塌。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10297,7 +10297,7 @@
           "deckId": "weekend_request",
           "title": "小买一件",
           "punchline": "今天可以小买一件。",
-          "explanation": "犒劳自己是正经事。",
+          "explanation": "小买不等于挥霍。一杯好咖啡、一本书、一束花——对自己的犒劳是正经支出，记在“心情维护”账目里。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10309,7 +10309,7 @@
           "deckId": "weekend_request",
           "title": "不必远行",
           "punchline": "周末不必出远门。",
-          "explanation": "在城里晃也是旅行。",
+          "explanation": "远不远不是旅行的标准。在城市里走一段没走过的路、进一家没进过的店，已经算小型旅行。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10321,7 +10321,7 @@
           "deckId": "weekend_request",
           "title": "勿扰开启",
           "punchline": "周末的'勿扰'权限，自动开启。",
-          "explanation": "你可以隐身一天。",
+          "explanation": "周末的隐身是合法的——不是失踪，是充电。手机静音、群聊不看，世界不会因此停摆。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10333,7 +10333,7 @@
           "deckId": "weekend_request",
           "title": "找一家新店",
           "punchline": "今天去找一家新店。",
-          "explanation": "小冒险也是冒险。",
+          "explanation": "新店是低成本的探险。哪怕只是楼下新开的那家，也是给惯性松绑——大脑喜欢“第一次”。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10345,7 +10345,7 @@
           "deckId": "weekend_request",
           "title": "假期反差",
           "punchline": "上班 vs 周末，落差越大越好。",
-          "explanation": "对比让休息更甜。",
+          "explanation": "落差是身体的甜味剂。工作日越紧绷，周末的松弛感越浓——别试图“平稳过渡”，让它陡一点。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10357,7 +10357,7 @@
           "deckId": "weekend_request",
           "title": "不学习",
           "punchline": "今天的学习计划，请假。",
-          "explanation": "脑子也要假期。",
+          "explanation": "大脑不是机器，连续学习会减效。今天明确地说“不学”，回来时反而记得更清楚。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10369,7 +10369,7 @@
           "deckId": "weekend_request",
           "title": "看一会儿天",
           "punchline": "今天抬头看一会儿天。",
-          "explanation": "天空是最便宜的疗愈。",
+          "explanation": "天空每天都在，但你常常忘记它。抬头看五分钟，看云慢慢动——这是世界最便宜的疗愈方式。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10381,7 +10381,7 @@
           "deckId": "weekend_request",
           "title": "慢早餐",
           "punchline": "今天的早餐，吃 40 分钟。",
-          "explanation": "吃得慢，是仪式感。",
+          "explanation": "早餐 40 分钟是反效率的。但效率不是生活的标准——慢慢嚼出味道，比立刻冲出门要值得。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10393,7 +10393,7 @@
           "deckId": "weekend_request",
           "title": "一段慢路",
           "punchline": "今天找一段路慢慢走。",
-          "explanation": "走路是慢思考。",
+          "explanation": "走路时脑子的速度会自己慢下来。一段没目的的路，反而能想清楚一件平时绕不开的事。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10405,7 +10405,7 @@
           "deckId": "weekend_request",
           "title": "晒太阳",
           "punchline": "今天找一块光，坐进去。",
-          "explanation": "光会修人。",
+          "explanation": "光照在脸上的感觉，骨头都会记得。坐进去五分钟，眼睛会半闭——不是困，是身体在修复。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10417,7 +10417,7 @@
           "deckId": "weekend_request",
           "title": "赖到中午",
           "punchline": "今天的床，可以赖到中午。",
-          "explanation": "赖床也是修行。",
+          "explanation": "赖床不是浪费，是和自己待着。中午前不必起，不必“做点什么”——光是躺着，也是生活的一种形态。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10429,7 +10429,7 @@
           "deckId": "weekend_request",
           "title": "再撑五天",
           "punchline": "再多撑五天，又是周末。",
-          "explanation": "你已经走过最难的部分。",
+          "explanation": "倒数五天是大脑的安抚术。每过一天，距离周末又近一档——这种“在等”的感觉本身，就是动力。",
           "backgroundTags": [
             "sky",
             "pause",
@@ -10455,7 +10455,7 @@
           "deckId": "family_distance",
           "title": "接电话之前",
           "punchline": "接电话前，先深呼吸。",
-          "explanation": "你不必立刻回答所有问题。",
+          "explanation": "父母的电话来了，焦虑先于内容到达。先深呼吸一秒，给那个“自动应答”的自己降速——你不必每个问题都立刻有答案。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10467,7 +10467,7 @@
           "deckId": "family_distance",
           "title": "不被催",
           "punchline": "今天的催问，自动屏蔽。",
-          "explanation": "你按自己的节奏走。",
+          "explanation": "催问不是恶意，是父母的焦虑外露。听到了就听到了，但不必每次都进入心里——你按自己的节奏走，他们慢慢会跟上。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10479,7 +10479,7 @@
           "deckId": "family_distance",
           "title": "婚姻自决",
           "punchline": "结不结婚，归你自己。",
-          "explanation": "时间表不是别人发的。",
+          "explanation": "结婚是关系，不是任务。父母的时间表来自他们那个年代的安全感来源——你的人生不必拷贝那份表。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10491,7 +10491,7 @@
           "deckId": "family_distance",
           "title": "工资不必报",
           "punchline": "工资多少，可以不告知。",
-          "explanation": "你不欠任何人一份月度报告。",
+          "explanation": "工资是私事。父母问的时候不是查岗，是想确认你过得好——可以告诉他们“够用”，也可以不告诉具体数字。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10503,7 +10503,7 @@
           "deckId": "family_distance",
           "title": "家长群关掉",
           "punchline": "家族群可以静音。",
-          "explanation": "亲情不靠通知量。",
+          "explanation": "静音不是断亲，是保护自己的耳朵。99+ 的群消息里，真正属于你的可能只有两条——其他的，明天再看也没事。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10515,7 +10515,7 @@
           "deckId": "family_distance",
           "title": "回家次数",
           "punchline": "回家次数，可以由你定。",
-          "explanation": "频次是你的选择。",
+          "explanation": "回家不是 KPI。频次不是衡量孝顺的尺子——重要的是回去的时候你在场，比每个月去一次但人心不在要好。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10527,7 +10527,7 @@
           "deckId": "family_distance",
           "title": "别人家孩子",
           "punchline": "别人家的孩子和你无关。",
-          "explanation": "比较是父母的功课，不是你的。",
+          "explanation": "“别人家的孩子”是父母用来减压的语言。听到了不必当真——他们其实也不希望你变成另一个人。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10539,7 +10539,7 @@
           "deckId": "family_distance",
           "title": "父母也焦虑",
           "punchline": "父母的焦虑，是父母的事。",
-          "explanation": "你可以心疼，但不必背。",
+          "explanation": "父母焦虑也是普通人的反应。你可以心疼他们的紧张，但不必每次都接过来扛——你扛了，他们也没法学会自己处理。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10551,7 +10551,7 @@
           "deckId": "family_distance",
           "title": "不被定义",
           "punchline": "你不是父母版本的你。",
-          "explanation": "你有独立版本。",
+          "explanation": "父母的版本里有你的童年。但你现在是更新过的自己——他们看到的是 v1.0，你已经活到 v3.7 了。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10563,7 +10563,7 @@
           "deckId": "family_distance",
           "title": "春节预备役",
           "punchline": "回家之前，给自己留缓冲。",
-          "explanation": "前一天别太密。",
+          "explanation": "回家前一天别安排太满。给那个即将切换角色的自己一段过渡——从“成年的自己”切到“家里那个孩子”，需要时间。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10575,7 +10575,7 @@
           "deckId": "family_distance",
           "title": "拒绝催相亲",
           "punchline": "相亲请允许我推掉。",
-          "explanation": "感情不是任务。",
+          "explanation": "相亲是父母的解决方案，不一定是你的。可以坦白：“这个阶段不想”，比每次找借口推掉要更省力，长期来看更省。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10587,7 +10587,7 @@
           "deckId": "family_distance",
           "title": "工作不被评",
           "punchline": "你的工作，不必被家长打分。",
-          "explanation": "他们不在你的岗位。",
+          "explanation": "工作好不好，他们没法评估——只能从你嘴里听到几个抽象的形容词。听他们的评价，等于让外行打专业课分数。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10599,7 +10599,7 @@
           "deckId": "family_distance",
           "title": "不必汇报恋爱",
           "punchline": "恋爱状态，可以不汇报。",
-          "explanation": "私事归私人。",
+          "explanation": "恋爱是慢慢长出来的，不是新闻发布会。你不必每次都更新——稳定下来再说，或者永远不说，都是合法的。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10611,7 +10611,7 @@
           "deckId": "family_distance",
           "title": "家庭聚会延期",
           "punchline": "今年的聚会，可以请假。",
-          "explanation": "假期归你自己也合法。",
+          "explanation": "聚会是邀请，不是强制。今年请假不代表家庭关系塌方——你需要的休息，比家族大合照重要。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10623,7 +10623,7 @@
           "deckId": "family_distance",
           "title": "父母老去",
           "punchline": "父母会老，是你也会面对的事。",
-          "explanation": "对他们温柔一点，对你也是。",
+          "explanation": "父母会老是一个慢慢发生的事实。你今天对他们的温柔，是给未来的自己积存一份“我做过”——会让以后的日子轻一点。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10635,7 +10635,7 @@
           "deckId": "family_distance",
           "title": "我是大人",
           "punchline": "你已经是大人了。",
-          "explanation": "他们可能还没习惯。",
+          "explanation": "父母认你是大人，需要时间。他们脑中还存着你小时候的画面——耐心一点，他们也在学新版本的你。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10647,7 +10647,7 @@
           "deckId": "family_distance",
           "title": "边界温柔",
           "punchline": "边界可以温柔地建立。",
-          "explanation": "拒绝不必凶。",
+          "explanation": "边界不必用吵架来宣告。“妈我知道了，但这件事我想自己定”——一句话，温柔，但清楚。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10659,7 +10659,7 @@
           "deckId": "family_distance",
           "title": "群里不接话",
           "punchline": "群里说了什么，可以不接话。",
-          "explanation": "已读不回是技能。",
+          "explanation": "家族群的话题大多是空气。看到了就看到了，不接话不是不孝——是把耳朵留给真正需要回应的事。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10671,7 +10671,7 @@
           "deckId": "family_distance",
           "title": "不必证明",
           "punchline": "你不必向家人证明自己。",
-          "explanation": "你存在就够了。",
+          "explanation": "你不必拿成绩、工资、对象去证明自己“过得好”。父母真正想看的不是数字，是你的状态——脸上有光就够。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10683,7 +10683,7 @@
           "deckId": "family_distance",
           "title": "假期独处",
           "punchline": "假期可以选择独处。",
-          "explanation": "回家不是必须。",
+          "explanation": "不回家不是冷漠。有时候独处的假期比团聚的假期更让你回血——回去也是要给的，但今年的暂停也合法。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10695,7 +10695,7 @@
           "deckId": "family_distance",
           "title": "父母不是天",
           "punchline": "父母也是会犯错的人。",
-          "explanation": "你可以爱他们，也可以纠正。",
+          "explanation": "父母不是无误的角色，他们也会有偏见、有错误的判断。你可以爱他们，也可以温柔地说“这一点我不认同”——爱和纠正可以并存。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10707,7 +10707,7 @@
           "deckId": "family_distance",
           "title": "不背他们的梦",
           "punchline": "你不必完成父母没完成的梦。",
-          "explanation": "他们的人生归他们。",
+          "explanation": "他们没完成的梦是他们的剧本。你的剧本可以重新写——不必把别人的遗憾，活成自己的功课。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10719,7 +10719,7 @@
           "deckId": "family_distance",
           "title": "给自己一票",
           "punchline": "家庭决定里，你有一票。",
-          "explanation": "不必妥协所有。",
+          "explanation": "家庭也是民主体制。你的一票是合法的——不必每次都同意，反对也不会让你被开除。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10731,7 +10731,7 @@
           "deckId": "family_distance",
           "title": "拒绝越界",
           "punchline": "你的房间、手机、生活，是你的。",
-          "explanation": "拒绝翻动是合理的。",
+          "explanation": "私人空间不是奢侈品。你可以温柔地说“这个我自己整理”——边界不需要解释，存在本身就是答案。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10743,7 +10743,7 @@
           "deckId": "family_distance",
           "title": "父母也累",
           "punchline": "父母也有他们的疲惫。",
-          "explanation": "理解不等于全盘接受。",
+          "explanation": "父母也会累、也会有他们的难。理解他们，但不必把他们的情绪全盘接过来——你们可以是两个互相心疼的人。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10755,7 +10755,7 @@
           "deckId": "family_distance",
           "title": "不必报喜",
           "punchline": "今天的开心，不必汇报。",
-          "explanation": "你的喜悦归你自己。",
+          "explanation": "不是每个好消息都要告诉家里。你的喜悦你先享用——汇报给父母的版本，常常会被他们二次加工成新的焦虑。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10767,7 +10767,7 @@
           "deckId": "family_distance",
           "title": "春节有边界",
           "punchline": "春节也可以保持距离。",
-          "explanation": "在家也能有自我空间。",
+          "explanation": "在家时给自己一个房间、一个时段、一个借口——不是不亲近，是让自己也喘口气。春节不是 24h 营业。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10779,7 +10779,7 @@
           "deckId": "family_distance",
           "title": "称呼放下",
           "punchline": "你不只是某人的女儿或儿子。",
-          "explanation": "你是你自己。",
+          "explanation": "你的身份不止一个标签。在家时被叫作“儿子/女儿”，出门以后你是同事、是朋友、是某个人喜欢的对象——都是你。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10791,7 +10791,7 @@
           "deckId": "family_distance",
           "title": "不当家庭客服",
           "punchline": "家里所有事不必你解决。",
-          "explanation": "你不是 24h 服务。",
+          "explanation": "家里的事是全家人的事。你不必当那个永远 on-call 的人——分担可以，但全包就成了义务。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10803,7 +10803,7 @@
           "deckId": "family_distance",
           "title": "电话冷处理",
           "punchline": "电话来了，可以等一下接。",
-          "explanation": "你不是即时响应通道。",
+          "explanation": "不必每次振铃就接。回拨一句“刚才没听见”，给自己一个心理准备的间隙——通话质量反而更好。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10815,7 +10815,7 @@
           "deckId": "family_distance",
           "title": "婚恋自决",
           "punchline": "找谁、什么时候找，是你的事。",
-          "explanation": "他们不在恋爱现场。",
+          "explanation": "谈恋爱是你和那个人的事。父母给的建议常常是基于他们的恋爱观——五十年前的版本。听一下，但你的现场你做主。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10827,7 +10827,7 @@
           "deckId": "family_distance",
           "title": "工作自决",
           "punchline": "做什么、在哪里做，是你的事。",
-          "explanation": "你最了解自己的工作。",
+          "explanation": "工作的选择需要你自己感知。父母的建议来自他们的视野，不在你的岗位上——他们的“稳定”，可能不是你的“合适”。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10839,7 +10839,7 @@
           "deckId": "family_distance",
           "title": "假期可以躲",
           "punchline": "节日时可以暂时'失联'。",
-          "explanation": "短暂消失是合法选项。",
+          "explanation": "短暂消失是合法的。节日时如果心力不够，发一条“今天忙，过两天再聊”——比硬扯热闹要更尊重彼此。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10851,7 +10851,7 @@
           "deckId": "family_distance",
           "title": "家庭不必和",
           "punchline": "和不了的，先放着。",
-          "explanation": "和解不是一次完成。",
+          "explanation": "和解是慢慢长出来的，不是一次对话能完成。今天没说清的，先放一晚——很多事在时间里会自己变软。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10863,7 +10863,7 @@
           "deckId": "family_distance",
           "title": "互相成长",
           "punchline": "父母也在学着成为父母。",
-          "explanation": "互相成长。",
+          "explanation": "父母也是第一次做父母。他们也在试错、也在调整——你今天对他们的耐心，是给彼此都留时间。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10875,7 +10875,7 @@
           "deckId": "family_distance",
           "title": "不为他们承担",
           "punchline": "他们的情绪，不必你背。",
-          "explanation": "你只对自己负责。",
+          "explanation": "父母的情绪是父母的情绪。你可以倾听、可以心疼，但不必把它当成自己要解决的问题——他们也是大人。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10887,7 +10887,7 @@
           "deckId": "family_distance",
           "title": "一通电话",
           "punchline": "今天打一通电话，时长由你定。",
-          "explanation": "短聊也是关心。",
+          "explanation": "关心不靠时长。五分钟的“我挺好，你呢”也是关心——比硬聊一小时但话不投机要更真。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10899,7 +10899,7 @@
           "deckId": "family_distance",
           "title": "不接受比较",
           "punchline": "别人家的女儿或儿子，不是参照系。",
-          "explanation": "你只跟自己比。",
+          "explanation": "别人家的孩子是父母用来减压的虚构角色。真正的他们也有缺点、也有焦虑——你不必和一个滤镜版竞争。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10911,7 +10911,7 @@
           "deckId": "family_distance",
           "title": "家庭也内卷",
           "punchline": "家里也可能有 KPI。",
-          "explanation": "你不必参加这个比赛。",
+          "explanation": "家里有时也会有看不见的比赛——谁工资高、谁结婚早、谁孩子聪明。你可以不参赛，不必每次都报名。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10923,7 +10923,7 @@
           "deckId": "family_distance",
           "title": "不必被理解",
           "punchline": "他们不理解，也没关系。",
-          "explanation": "理解不是爱的前提。",
+          "explanation": "父母不理解你的选择是正常的——他们的时代和你的不一样。爱不需要先理解，可以先存在。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10935,7 +10935,7 @@
           "deckId": "family_distance",
           "title": "春节预算",
           "punchline": "春节红包预算，自己定。",
-          "explanation": "面子工程可以打折。",
+          "explanation": "红包是表达，不是攀比。给多少由你的钱包和心情决定——面子工程可以打折，亲情不会因此打折。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10947,7 +10947,7 @@
           "deckId": "family_distance",
           "title": "不当传话筒",
           "punchline": "家庭里的传话工作，今天免。",
-          "explanation": "你不是中转站。",
+          "explanation": "家里有时会让你做“传话筒”。今天免，让他们自己说——你的中转站身份不是默认配置。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10959,7 +10959,7 @@
           "deckId": "family_distance",
           "title": "距离感安全",
           "punchline": "距离感不是冷漠。",
-          "explanation": "是关系健康的标志。",
+          "explanation": "真正健康的家庭关系是有空隙的。每个人有自己的房间、自己的话题——空隙是关系长久的氧气。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10971,7 +10971,7 @@
           "deckId": "family_distance",
           "title": "短聚也算",
           "punchline": "回家三天也算回家。",
-          "explanation": "时长不重要，质量重要。",
+          "explanation": "回家三天和回家七天，质量未必差。短而专心地陪着，比长而心不在地待着，对所有人都更好。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10983,7 +10983,7 @@
           "deckId": "family_distance",
           "title": "父母也害怕",
           "punchline": "父母也会怕老、怕病、怕被丢下。",
-          "explanation": "理解他们的恐惧。",
+          "explanation": "父母也是会害怕的人。他们催你结婚、问你工资，背后常常是怕你不稳——理解这层恐惧，比怪他们烦更管用。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -10995,7 +10995,7 @@
           "deckId": "family_distance",
           "title": "不必扮演",
           "punchline": "在家里你也可以做自己。",
-          "explanation": "扮演太累。",
+          "explanation": "在家扮演“乖孩子”很累。今天试着不演——表情不必每秒到位，情绪不必时刻配合——他们也会松一口气。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -11007,7 +11007,7 @@
           "deckId": "family_distance",
           "title": "拒绝催孩子",
           "punchline": "生不生孩子，归你。",
-          "explanation": "这不是别人的话题。",
+          "explanation": "生育是你的身体、你的人生、你的决定。听他们说完，然后告诉自己——这个问题的答案，从来不在他们手里。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -11019,7 +11019,7 @@
           "deckId": "family_distance",
           "title": "话听一半",
           "punchline": "他们的建议，可以选择性接受。",
-          "explanation": "你不是必须执行。",
+          "explanation": "建议是 input，不是 command。父母给的建议你可以听一半、记一句、忘掉两条——选择权一直在你。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -11031,7 +11031,7 @@
           "deckId": "family_distance",
           "title": "我有底线",
           "punchline": "你有自己的底线，不必妥协。",
-          "explanation": "底线是给你自己用的。",
+          "explanation": "底线是你给自己的保护带。父母可能会试探，你不必每次都让步——底线让步多了，就成了别人的边界。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -11043,7 +11043,7 @@
           "deckId": "family_distance",
           "title": "给家一点空",
           "punchline": "今天给家庭关系一点喘息。",
-          "explanation": "近也要远一些，才长久。",
+          "explanation": "家庭关系不是越近越好。今天给它一点距离——不打电话、不刷家庭群——让彼此都有空间，是关系长久的秘诀。",
           "backgroundTags": [
             "hidden",
             "warm",
@@ -11069,7 +11069,7 @@
           "deckId": "money_dignity",
           "title": "月光也体面",
           "punchline": "月光不影响你的体面。",
-          "explanation": "钱包薄不代表你薄。",
+          "explanation": "体面是你看自己的方式。月光只是这个月的数字现实——它和你这个人是不是有光，是两件事。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11081,7 +11081,7 @@
           "deckId": "money_dignity",
           "title": "物欲先放",
           "punchline": "今天的物欲，先冷静一下。",
-          "explanation": "想要不等于需要。",
+          "explanation": "物欲来得猛去得也快。给它三十秒发酵期，常常你会发现刚才那个“必须买”，只是被广告催出来的紧迫感。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11093,7 +11093,7 @@
           "deckId": "money_dignity",
           "title": "只逛不买",
           "punchline": "今天可以只逛不买。",
-          "explanation": "看见也是一种拥有。",
+          "explanation": "逛街是免费的鉴赏。看见、拿起、放下——这个完整的小动作就够，不必把每个喜欢都用钱来表达。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11105,7 +11105,7 @@
           "deckId": "money_dignity",
           "title": "攒钱小确幸",
           "punchline": "今天少花一笔，未来给自己一笔。",
-          "explanation": "复利也包括延迟享乐。",
+          "explanation": "今天没买的咖啡，是明天一束花的预算。延迟享乐不是抠门，是给未来的自己留一份选择权。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11117,7 +11117,7 @@
           "deckId": "money_dignity",
           "title": "购物车冷藏",
           "punchline": "今天的购物车，先放置三天。",
-          "explanation": "三天后还想要，再买。",
+          "explanation": "购物车是欲望的缓冲池。三天后还想要的东西，往往是真的需要——剩下的一大半，过几天自己就消失了。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11129,7 +11129,7 @@
           "deckId": "money_dignity",
           "title": "不被种草",
           "punchline": "今天的种草，请自动绕过。",
-          "explanation": "你不必跟着别人的口味长。",
+          "explanation": "种草本质上是别人在替你做决定。今天主动绕过——你的口味不靠 KOL 校准，它本来就是你的。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11141,7 +11141,7 @@
           "deckId": "money_dignity",
           "title": "工资到账日",
           "punchline": "工资到账，先深呼吸。",
-          "explanation": "别让它一秒蒸发。",
+          "explanation": "工资到账那一刻是情绪的高峰。先放一晚——醒来之后再做花钱的决定，比当晚就刷购物车理性十倍。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11153,7 +11153,7 @@
           "deckId": "money_dignity",
           "title": "钱留自己",
           "punchline": "今天的钱，留给自己。",
-          "explanation": "对自己慷慨也是慷慨。",
+          "explanation": "对自己慷慨不是自私。一杯好咖啡、一双合脚的鞋、一本想看的书——这些花在自己身上的钱，回报率最高。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11165,7 +11165,7 @@
           "deckId": "money_dignity",
           "title": "不当韭菜",
           "punchline": "今天的韭菜身份，请下班。",
-          "explanation": "你不是别人的成长引擎。",
+          "explanation": "你不必为别人的增长指标买单。今天的优惠券、打折、限时秒杀——背后多半是别人的 KPI，不是你的需求。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11177,7 +11177,7 @@
           "deckId": "money_dignity",
           "title": "不为面子花",
           "punchline": "为面子花的钱，可以省。",
-          "explanation": "面子是别人的，钱是你的。",
+          "explanation": "面子工程是给别人看的成本。今天能不上的局、能不送的礼，省下来——这些钱回到你账户里，是给自己加了一层底气。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11189,7 +11189,7 @@
           "deckId": "money_dignity",
           "title": "廉价快乐",
           "punchline": "今天的快乐不必贵。",
-          "explanation": "一杯便利店咖啡也算治愈。",
+          "explanation": "快乐和价格没关系。便利店的咖啡、楼下的散步、一段免费的阳光——便宜的快乐密度不低，只是不被广告。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11201,7 +11201,7 @@
           "deckId": "money_dignity",
           "title": "简朴版购物",
           "punchline": "今天的购物，请简朴版。",
-          "explanation": "简朴不丢人。",
+          "explanation": "简朴是一种风格，不是穷的妥协。今天选最够用的版本——简朴里有它自己的优雅，反而不容易过时。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11213,7 +11213,7 @@
           "deckId": "money_dignity",
           "title": "工资规划",
           "punchline": "今天给工资分个家。",
-          "explanation": "每一笔有去处，钱才不慌。",
+          "explanation": "工资到账先分流：房租 / 生活 / 储蓄 / 自由花。每一笔有去处，你心里就稳——剩下来的那部分，花起来也不会有“我是不是不该花”的负罪感。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11225,7 +11225,7 @@
           "deckId": "money_dignity",
           "title": "房租预存",
           "punchline": "房租之前，先存好一笔。",
-          "explanation": "存了再花，才安稳。",
+          "explanation": "工资来的顺序很重要。先存后花的人，月底不慌；先花后存的人，月底慌——这是同一笔钱的两种命运。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11237,7 +11237,7 @@
           "deckId": "money_dignity",
           "title": "不必赶热点",
           "punchline": "热门商品不是你必买。",
-          "explanation": "退潮后你会感谢自己。",
+          "explanation": "热门是一时的潮。今天没买的爆款，半年后大多落到打折区——你那时候才会感谢今天没冲动的自己。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11249,7 +11249,7 @@
           "deckId": "money_dignity",
           "title": "拒绝分期",
           "punchline": "今天的分期，请不要刷。",
-          "explanation": "今天的甜，是明天的债。",
+          "explanation": "分期把一次消费拉长成一年。每个月的小额还款看起来不疼，加起来才发现今天的甜，已经预支了未来一年的甜。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11261,7 +11261,7 @@
           "deckId": "money_dignity",
           "title": "二手也好",
           "punchline": "今天可以买二手。",
-          "explanation": "省钱不等于将就。",
+          "explanation": "二手不是凑合。一件被用过的好东西，常常比新的便宜款更值得——你买的是品质，不是包装的崭新。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11273,7 +11273,7 @@
           "deckId": "money_dignity",
           "title": "通勤是省",
           "punchline": "今天走路或地铁。",
-          "explanation": "通勤也是省钱。",
+          "explanation": "通勤的方式是日常的小账户。能走的不打车、能地铁的不专车——每天省下的那几十块，攒一年是一次小旅行。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11285,7 +11285,7 @@
           "deckId": "money_dignity",
           "title": "外卖减一",
           "punchline": "今天少点一份外卖。",
-          "explanation": "做饭也是仪式感。",
+          "explanation": "自己做饭不只是省钱。切菜、煮、闻——这些动作本身是一种自我照顾，比外卖的塑料盒子有温度。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11297,7 +11297,7 @@
           "deckId": "money_dignity",
           "title": "先存 10%",
           "punchline": "工资先存 10%。",
-          "explanation": "未来的你会感谢现在的你。",
+          "explanation": "工资到账先扣 10% 转走。看不到的钱花不出去——未来的你会发现，那个隐藏账户已经悄悄长大。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11309,7 +11309,7 @@
           "deckId": "money_dignity",
           "title": "不必每代换",
           "punchline": "手机和包不必每代换。",
-          "explanation": "用旧也是态度。",
+          "explanation": "用旧物的人有自己的从容。手机不必每年换、包不必每季新——你用旧物，是在表达“我的快乐不需要靠物品迭代”。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11321,7 +11321,7 @@
           "deckId": "money_dignity",
           "title": "不被晒所动",
           "punchline": "别人的奢华，不是你的标准。",
-          "explanation": "不羡慕是高级活法。",
+          "explanation": "别人晒的奢华是片段，不是日常。看见了点个赞、滑过去——不羡慕、不模仿，比假装也有更高级。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11333,7 +11333,7 @@
           "deckId": "money_dignity",
           "title": "不当冤大头",
           "punchline": "今天的冤枉钱，请避开。",
-          "explanation": "便宜不一定值得。",
+          "explanation": "便宜的诱惑常常是陷阱。买回来用不上的东西，比贵但合适的东西更亏——价格不是唯一坐标。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11345,7 +11345,7 @@
           "deckId": "money_dignity",
           "title": "钱也是边界",
           "punchline": "钱也是边界。借钱前先想清楚。",
-          "explanation": "钱关系也是关系。",
+          "explanation": "借钱是一种关系测试。借出去的钱常常回不来，损失的不只是钱，还有这段关系——所以借之前先想清楚能不能接受这两个一起没。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11357,7 +11357,7 @@
           "deckId": "money_dignity",
           "title": "不为他人买",
           "punchline": "今天不必为别人慷慨。",
-          "explanation": "你不是慈善机构。",
+          "explanation": "慷慨需要先有底气。在自己还没存好钱之前，别替别人买单——你不慷慨不是自私，是先把自己照顾好。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11369,7 +11369,7 @@
           "deckId": "money_dignity",
           "title": "不买清单",
           "punchline": "今天写一张'不买'清单。",
-          "explanation": "明确不要，是自由的开始。",
+          "explanation": "“不买清单”比购物清单更解放。明确写下“今年不买的东西”——大脑就会停止在那个范围里搜寻，注意力立刻轻一档。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11381,7 +11381,7 @@
           "deckId": "money_dignity",
           "title": "不必跟风",
           "punchline": "今天的爆款，可以不追。",
-          "explanation": "你的风格不靠模仿。",
+          "explanation": "爆款是大多数人的选择，不是你的选择。你的风格是慢慢长出来的——今天不追，反而是给自己的审美留位置。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11393,7 +11393,7 @@
           "deckId": "money_dignity",
           "title": "便宜不等于赚",
           "punchline": "便宜不等于划算。",
-          "explanation": "用不到就是亏。",
+          "explanation": "便宜了 50% 但用不到的东西，是 100% 的亏。划算的衡量标准不是折扣，是“用到的频率 × 喜欢的程度”。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11405,7 +11405,7 @@
           "deckId": "money_dignity",
           "title": "礼物可以心意",
           "punchline": "今天的礼物，可以是心意。",
-          "explanation": "贵的不一定到位。",
+          "explanation": "礼物的重点是“我想到你”。一封手写的信、一本你知道对方在找的书——这些贵不过 50 块，但比贵礼更到位。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11417,7 +11417,7 @@
           "deckId": "money_dignity",
           "title": "工资晚到",
           "punchline": "今天工资晚到，先冷静。",
-          "explanation": "不会塌方。",
+          "explanation": "工资晚一两天是常有的事。先深呼吸——账户里的数字还在，房租也不会因此涨——这种小焦虑放过一夜就会平息。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11429,7 +11429,7 @@
           "deckId": "money_dignity",
           "title": "攒到一个数",
           "punchline": "你可以给自己定个攒钱小目标。",
-          "explanation": "看着它涨，是另一种成就。",
+          "explanation": "攒钱目标不必很大。三个月攒一个一万的小目标，达成那一刻的成就感，可能比花掉一万还大——这是免费的多巴胺。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11441,7 +11441,7 @@
           "deckId": "money_dignity",
           "title": "不被打折绑架",
           "punchline": "今天的打折，不必抢。",
-          "explanation": "不需要的，再便宜也是浪费。",
+          "explanation": "打折是商家的策略，不是你的机会。问自己一句“如果不打折我会买吗”——答案是不会，那就让它过去。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11453,7 +11453,7 @@
           "deckId": "money_dignity",
           "title": "不必买焦虑",
           "punchline": "今天的'限时'是销售技巧。",
-          "explanation": "你不必被催促。",
+          "explanation": "“限时” “最后 3 件” “今晚结束”——这些都是触发紧迫感的话术。深呼吸，你今天不必被任何倒计时绑架。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11465,7 +11465,7 @@
           "deckId": "money_dignity",
           "title": "钱不丢身份",
           "punchline": "没钱时你也是你。",
-          "explanation": "身份不靠钱包定义。",
+          "explanation": "钱包薄的时候你还是你。你的幽默、你的善良、你的视角——这些东西不会因为存款数字变小而消失。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11477,7 +11477,7 @@
           "deckId": "money_dignity",
           "title": "不必比包",
           "punchline": "你和朋友的包不必同款。",
-          "explanation": "比的是关系，不是包。",
+          "explanation": "朋友之间的友情不靠物品对齐。她有的你不必有、你有的她不必懂——关系的密度，比物品的重合度重要。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11489,7 +11489,7 @@
           "deckId": "money_dignity",
           "title": "小奖励自己",
           "punchline": "工资来了，给自己一点小奖励。",
-          "explanation": "克制和奖励可以并存。",
+          "explanation": "全攒不花是另一种焦虑。工资来了，给自己一点小奖励——一杯特别的咖啡、一束花——克制和奖励可以同时存在。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11501,7 +11501,7 @@
           "deckId": "money_dignity",
           "title": "先看条款",
           "punchline": "买保险前，先看条款。",
-          "explanation": "情绪驱动的购买都该再等等。",
+          "explanation": "保险是长决定。被推销话术冲动签下的，常常用不上——先看条款、再睡一晚，第二天还想买的再签。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11513,7 +11513,7 @@
           "deckId": "money_dignity",
           "title": "不必请客",
           "punchline": "今天不必请所有人吃。",
-          "explanation": "好朋友 AA 也是好朋友。",
+          "explanation": "抢着请客不是友情的标志。好朋友 AA 是更轻的关系——没人欠谁，下次约还能再约，不会有“上次你请了，这次该我了”的算账。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11525,7 +11525,7 @@
           "deckId": "money_dignity",
           "title": "先记账",
           "punchline": "今天物价高，先记账。",
-          "explanation": "心里有数才不会慌。",
+          "explanation": "记账不是控制狂的事，是让大脑放心。知道这个月花了多少、还能花多少——心里的数字稳了，整体的焦虑就低。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11537,7 +11537,7 @@
           "deckId": "money_dignity",
           "title": "二手也美",
           "punchline": "二手不丢人。",
-          "explanation": "用旧物的人也是高级的人。",
+          "explanation": "二手是另一种新。一件被另一个人喜欢过的好东西，带着前任主人的眼光——你用它，是接过这份品味。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11549,7 +11549,7 @@
           "deckId": "money_dignity",
           "title": "广告冷静",
           "punchline": "今天的广告，请保持冷静。",
-          "explanation": "广告是文案，不是事实。",
+          "explanation": "广告里描述的“使用场景”，常常和你的真实生活无关。看到了笑一笑——它在卖故事，不是产品。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11561,7 +11561,7 @@
           "deckId": "money_dignity",
           "title": "福利可以放弃",
           "punchline": "限时福利可以放弃。",
-          "explanation": "放弃也是自由。",
+          "explanation": "放弃一个“限时福利”会觉得肉疼，但其实你只是没赚到一点不该赚的。今天主动放弃一次，感受一下不被绑架的轻。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11573,7 +11573,7 @@
           "deckId": "money_dignity",
           "title": "节俭不寒酸",
           "punchline": "节俭不等于寒酸。",
-          "explanation": "有度有美，才高级。",
+          "explanation": "节俭是有意识的选择，寒酸是被迫的将就。节俭里有美——你在用最合适的方式过日子，而不是最便宜的。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11585,7 +11585,7 @@
           "deckId": "money_dignity",
           "title": "钱包休一天",
           "punchline": "今天的钱包，休一天。",
-          "explanation": "不消费日也合法。",
+          "explanation": "“不消费日”是值得定期安排的小修行。一天不刷卡、不点外卖、不上购物 app——感受一下不被消费驱动的清静。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11597,7 +11597,7 @@
           "deckId": "money_dignity",
           "title": "不为情绪付费",
           "punchline": "今天的信仰课程，先冷静。",
-          "explanation": "你不必为情绪付费太多。",
+          "explanation": "“情绪课程” “速成班” “人生方法论”——很多课程贩卖的是“我有问题”的焦虑。先冷静——你的情绪问题，常常不是一节课能解决的。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11609,7 +11609,7 @@
           "deckId": "money_dignity",
           "title": "不必都有",
           "punchline": "别人在晒的，不必你也有。",
-          "explanation": "你的快乐自己定义。",
+          "explanation": "朋友圈的精致是滤镜过的片段。你的真实生活不必每个角度都好看——快乐的标准你自己定，不必和别人对齐。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11621,7 +11621,7 @@
           "deckId": "money_dignity",
           "title": "不当付款侠",
           "punchline": "聚会不必每次你付。",
-          "explanation": "AA 不是抠门。",
+          "explanation": "默认请客的人，常常是关系里被透支的那一个。AA 不是抠门，是把关系还原到平等——下次轮到对方主动，关系才长。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11633,7 +11633,7 @@
           "deckId": "money_dignity",
           "title": "攒得慢一点",
           "punchline": "攒得慢一点，也算攒。",
-          "explanation": "慢攒比不攒强。",
+          "explanation": "每个月只能攒五百也算攒。比起完美的“每月攒五千”但坚持不下来的计划，慢但持续的攒钱方式，五年后差距会很惊人。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11645,7 +11645,7 @@
           "deckId": "money_dignity",
           "title": "不必跟富",
           "punchline": "你不必跟着富人的节奏花。",
-          "explanation": "你过自己的生活。",
+          "explanation": "富人的消费节奏是属于他们的——他们花得多也赚得多。你不必模仿那种节奏，否则只会被现金流压垮。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11657,7 +11657,7 @@
           "deckId": "money_dignity",
           "title": "小骨气",
           "punchline": "你不必哭穷，也不必装富。",
-          "explanation": "诚实地过日子最稳。",
+          "explanation": "哭穷和装富都是表演。诚实地过——能花就花、该省就省——这种状态最稳，也最让人放松。",
           "backgroundTags": [
             "hidden",
             "gold",
@@ -11683,7 +11683,7 @@
           "deckId": "slow_growing",
           "title": "慢长一点",
           "punchline": "你不必比别人长得快。",
-          "explanation": "花期不一样。",
+          "explanation": "不是每朵花都在春天开。有的花要等秋天、有的花要等下一个春天——你的花期是你的，不归别人的时间表管。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11695,7 +11695,7 @@
           "deckId": "slow_growing",
           "title": "不和同学比",
           "punchline": "今天不和同学比。",
-          "explanation": "他们的路是他们的。",
+          "explanation": "比较的诱惑常常来自社交媒体。今天关掉那个比较的开关——他们的路是他们的，你的路是你的，两者本来就不在同一张地图上。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11707,7 +11707,7 @@
           "deckId": "slow_growing",
           "title": "迷茫合法",
           "punchline": "二十几岁迷茫是默认值。",
-          "explanation": "不迷茫的才奇怪。",
+          "explanation": "二十几岁的迷茫是这个年纪的标配。看起来不迷茫的同龄人，多半是把焦虑藏在朋友圈滤镜后——你只是更诚实。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11719,7 +11719,7 @@
           "deckId": "slow_growing",
           "title": "没目标可以",
           "punchline": "今天没有人生目标，也没关系。",
-          "explanation": "目标会自己出现。",
+          "explanation": "目标不是定下来才能往前走。先走着、先做着，目标会在某一天突然清晰——它常常是被走出来的，不是想出来的。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11731,7 +11731,7 @@
           "deckId": "slow_growing",
           "title": "慢人也行",
           "punchline": "慢的人到得稳。",
-          "explanation": "你不必跑。",
+          "explanation": "跑的人到得快，但常常摔。慢的人脚下每一步都踏实——到得晚一点没关系，至少你不会在半路掉队。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11743,7 +11743,7 @@
           "deckId": "slow_growing",
           "title": "不必比婚",
           "punchline": "结婚不结婚，不是赛跑。",
-          "explanation": "感情不是 KPI。",
+          "explanation": "结婚不是赛跑的终点。早结晚结都不是绩效——更重要的是和谁结、是不是在一个对的时刻——这些和时间表无关。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11755,7 +11755,7 @@
           "deckId": "slow_growing",
           "title": "工作未定",
           "punchline": "今天还没定下来要做什么，也没事。",
-          "explanation": "找方向也是工作。",
+          "explanation": "找方向本身就是一份工作。看似没动作的时期，其实大脑在筛选——这种内部劳动外人看不见，但确实在发生。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11767,7 +11767,7 @@
           "deckId": "slow_growing",
           "title": "同学已婚",
           "punchline": "朋友圈的同学婚讯，不是你的进度条。",
-          "explanation": "他们的婚和你无关。",
+          "explanation": "朋友圈的婚讯是别人的高光片段。看见点赞就好——他们的进度不是你的标尺，你的人生不在他们的赛道上。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11779,7 +11779,7 @@
           "deckId": "slow_growing",
           "title": "同龄人买房",
           "punchline": "同学买房，不是你的失败。",
-          "explanation": "节奏不同。",
+          "explanation": "同学买房和你没买房，不是赛跑结果。每个人的家庭、行业、城市都不一样——你和他用的本来就不是同一套衡量。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11791,7 +11791,7 @@
           "deckId": "slow_growing",
           "title": "不必早成",
           "punchline": "你不必 25 岁前所有都搞定。",
-          "explanation": "30 岁还在长，是正常的。",
+          "explanation": "二十几岁的人生不是完整版。30 岁还在试错、还在找方向、还没买房——这些都很正常，甚至是更健康的人生节奏。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11803,7 +11803,7 @@
           "deckId": "slow_growing",
           "title": "试错有用",
           "punchline": "今天走错的路，也算了解了一段。",
-          "explanation": "排除法也是方法。",
+          "explanation": "走错的路不是浪费。每条走错的路都帮你排除了一种可能——这种排除本身，就是离正确答案更近的一步。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11815,7 +11815,7 @@
           "deckId": "slow_growing",
           "title": "焦虑普遍",
           "punchline": "你不是唯一焦虑的那个。",
-          "explanation": "整代人都在缓慢成长。",
+          "explanation": "焦虑不是你的专属。整个 80 后、90 后、00 后都在缓慢迷茫——只是大家在朋友圈表演得太好，你以为只有自己。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11827,7 +11827,7 @@
           "deckId": "slow_growing",
           "title": "看不清未来",
           "punchline": "你看不清未来，是正常的。",
-          "explanation": "前方有雾很合理。",
+          "explanation": "看不清未来是当下的常态。前方有雾——不是因为你眼瞎，是因为这个时代的能见度本来就低，所有人都在摸索。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11839,7 +11839,7 @@
           "deckId": "slow_growing",
           "title": "一个人也完整",
           "punchline": "没有爱情的日子，也是日子。",
-          "explanation": "一个人也是完整的。",
+          "explanation": "一个人的日子不是过渡。一个人吃饭、一个人看电影、一个人去旅行——这些经验本身就完整，不必等到双数才有意义。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11851,7 +11851,7 @@
           "deckId": "slow_growing",
           "title": "不必早稳",
           "punchline": "你不必 20 出头就稳定。",
-          "explanation": "稳定可以慢慢来。",
+          "explanation": "20 出头的稳定常常是假稳定——是把不安藏起来。稳定是慢慢长出来的——35 岁稳定也很好，不必抢。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11863,7 +11863,7 @@
           "deckId": "slow_growing",
           "title": "转行可以",
           "punchline": "今天的工作不喜欢，可以转。",
-          "explanation": "调整方向不是失败。",
+          "explanation": "转行不是失败，是修正方向。年轻时换工作的成本最低——现在不换、未来更难——这是一种合理的资源利用。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11875,7 +11875,7 @@
           "deckId": "slow_growing",
           "title": "没副业也行",
           "punchline": "今天没有副业也没关系。",
-          "explanation": "本职做好就够。",
+          "explanation": "不是每个人都要做副业。本职做好就够——副业焦虑是这个时代制造出来的，你不必每个赛道都报名。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11887,7 +11887,7 @@
           "deckId": "slow_growing",
           "title": "自我接纳",
           "punchline": "你不必是最好的版本。",
-          "explanation": "你已经够了。",
+          "explanation": "最好的版本是一个移动目标。今天的你已经够了——不必每天都要“成长”，不必每个月都要“升级”，平稳本身就是成绩。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11899,7 +11899,7 @@
           "deckId": "slow_growing",
           "title": "不必都会",
           "punchline": "不会的事，不必逼自己会。",
-          "explanation": "选会的几样深做。",
+          "explanation": "全能不是优点，是稀释。选两三样真正喜欢的深耕——你在那几样上的厚度，比表面什么都会的广度有价值多。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11911,7 +11911,7 @@
           "deckId": "slow_growing",
           "title": "步速归你",
           "punchline": "别人走得快，不影响你的步速。",
-          "explanation": "目的地不一定相同。",
+          "explanation": "别人跑得快是因为他们的目的地在那里。你的目的地可能在另一个方向——别人的步速和你的步速，不是同一道题。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11923,7 +11923,7 @@
           "deckId": "slow_growing",
           "title": "没五年计划",
           "punchline": "今天没五年计划，没关系。",
-          "explanation": "走着走着就有了。",
+          "explanation": "五年计划是企业管理工具，不是人生工具。没有五年计划的你，可能反而更灵活——能跟着真实的机会走。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11935,7 +11935,7 @@
           "deckId": "slow_growing",
           "title": "不参加赛跑",
           "punchline": "同学创业，不是你的赛跑。",
-          "explanation": "他们的赛道不归你跑。",
+          "explanation": "同学创业是他们的选择，不是你的标准。你不必每个看到朋友的“突破”都要重新审视自己——他们的路和你的路，本来就不必比较。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11947,7 +11947,7 @@
           "deckId": "slow_growing",
           "title": "没积蓄常态",
           "punchline": "二十几岁没积蓄，是常态。",
-          "explanation": "积蓄会跟来。",
+          "explanation": "二十几岁的工资多半勉强够花。积蓄是 30 岁之后慢慢长的——你现在没钱不是失败，是这个年纪的现实。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11959,7 +11959,7 @@
           "deckId": "slow_growing",
           "title": "慢慢确定",
           "punchline": "你想要的，慢慢就清晰。",
-          "explanation": "不必今天答完所有题。",
+          "explanation": "你想要什么，是一道慢慢做的题。今天不必有答案——五年后你会回头说“原来那时候我已经知道了”——只是当时还没浮上来。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11971,7 +11971,7 @@
           "deckId": "slow_growing",
           "title": "不必早恋早婚",
           "punchline": "晚恋晚婚也是过法。",
-          "explanation": "时间表不必和别人对齐。",
+          "explanation": "晚恋晚婚不是缺陷。30 岁开始谈恋爱、35 岁结婚、40 岁再要孩子——这些都是合理的人生节奏，不是失败的版本。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11983,7 +11983,7 @@
           "deckId": "slow_growing",
           "title": "慢热也好",
           "punchline": "慢热的人，更耐得住。",
-          "explanation": "热得快的人凉得也快。",
+          "explanation": "慢热不是缺点。热得快的关系常常凉得也快——慢慢热起来的人，热度反而能维持得长——温度差更小，损耗更少。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -11995,7 +11995,7 @@
           "deckId": "slow_growing",
           "title": "没大梦也行",
           "punchline": "今天没大梦想，也没关系。",
-          "explanation": "小日子也值得。",
+          "explanation": "大梦想是一种激励，不是必需品。能把小日子过好——做一顿饭、读一本书、和一个人说说话——这些已经是值得的全部。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12007,7 +12007,7 @@
           "deckId": "slow_growing",
           "title": "不必都喜欢",
           "punchline": "你不必喜欢自己做的所有事。",
-          "explanation": "及格地做完也合法。",
+          "explanation": "全部都热爱是不现实的。有些事就是要做、不喜欢但完成——这种合格的态度比硬装“我喜欢”要真实，也更可持续。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12019,7 +12019,7 @@
           "deckId": "slow_growing",
           "title": "掉头不丢人",
           "punchline": "走错的路，可以掉头。",
-          "explanation": "回头不丢人。",
+          "explanation": "掉头不是认输。意识到方向不对的时候，越早回头损失越小——继续走下去才是真正的浪费。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12031,7 +12031,7 @@
           "deckId": "slow_growing",
           "title": "'都好'是滤镜",
           "punchline": "朋友圈的'都好'，是滤镜。",
-          "explanation": "他们也有你看不到的难。",
+          "explanation": "朋友圈展示的是经过筛选的好。每个看起来“都好”的同龄人，背后也有崩溃、也有焦虑、也有今天不想起床的时刻——你只是看不到。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12043,7 +12043,7 @@
           "deckId": "slow_growing",
           "title": "成长在偷偷发生",
           "punchline": "你不是没行动，是没自觉。",
-          "explanation": "成长在偷偷发生。",
+          "explanation": "成长常常是无感知的。今天感觉没进步——其实一年后回头看，会发现那一段时间你已经走了好远。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12055,7 +12055,7 @@
           "deckId": "slow_growing",
           "title": "不是模板",
           "punchline": "他人不是你的模板。",
-          "explanation": "你只有一份。",
+          "explanation": "模仿别人能走快一段，但走不远。别人的成功是他们的人生组合——你只有一份的人生，最好用来活成自己。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12067,7 +12067,7 @@
           "deckId": "slow_growing",
           "title": "成名晚一点",
           "punchline": "成名晚一点也行。",
-          "explanation": "持续比早起重要。",
+          "explanation": "早成名的多半很难持续。慢慢长的人——35、40 岁才被看见的人——往往走得更稳、也更有底气面对名声带来的复杂。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12079,7 +12079,7 @@
           "deckId": "slow_growing",
           "title": "三十不必立",
           "punchline": "30 岁不必立。",
-          "explanation": "立晚一点的人，立得更稳。",
+          "explanation": "“三十而立”是两千年前的标准。今天的 30 岁还在学习、还在试错、还在调整——立晚一点的人，立的根基更深。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12091,7 +12091,7 @@
           "deckId": "slow_growing",
           "title": "自己的航线",
           "punchline": "朋友起飞，你也会有自己的航线。",
-          "explanation": "他们的飞，不等于你的留。",
+          "explanation": "朋友起飞了不等于你被留下。每个人的飞机起飞时间不一样——你还在跑道上，不是失败，是你的舱门还没到点。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12103,7 +12103,7 @@
           "deckId": "slow_growing",
           "title": "结婚慢思考",
           "punchline": "结婚是慢思考。",
-          "explanation": "不结也很好。",
+          "explanation": "结婚是一个慢决定。不是想清楚才能结，是和对的人慢慢相处出来的——也可以一直不结，那也是完整的人生。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12115,7 +12115,7 @@
           "deckId": "slow_growing",
           "title": "空白也是一年",
           "punchline": "今年没目标，也是一年。",
-          "explanation": "空白也是经历。",
+          "explanation": "空白的一年不是浪费的一年。看似没“成就”的时间里，常常发生着别人看不到的内部修复——这种修复对未来很重要。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12127,7 +12127,7 @@
           "deckId": "slow_growing",
           "title": "买房晚一点",
           "punchline": "买房晚一点，不是失败。",
-          "explanation": "你的家由你定义。",
+          "explanation": "房子是一种生活的形态，不是必须。租房的家也是家，搬家的过程也是经历——家由你定义，不由房产证定义。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12139,7 +12139,7 @@
           "deckId": "slow_growing",
           "title": "不必都拼",
           "punchline": "今天的不拼，是合法的。",
-          "explanation": "拼也不一定赢。",
+          "explanation": "不拼不是躺平。拼到极限的人不一定赢——这个时代的回报和努力的关系，不像上一代那么直接——节奏更稳的人反而更能走远。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12151,7 +12151,7 @@
           "deckId": "slow_growing",
           "title": "慢成长",
           "punchline": "成长慢一点，没事。",
-          "explanation": "深根的树，长得稳。",
+          "explanation": "长得快的树容易倒。深根的树花更多时间扎下去——表面上看起来没长——但风来的时候，它才稳得住。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12163,7 +12163,7 @@
           "deckId": "slow_growing",
           "title": "选择需要时间",
           "punchline": "选择本身就需要时间。",
-          "explanation": "你不是在浪费，是在选。",
+          "explanation": "做选择的时间不是浪费的时间。看似在原地的犹豫，其实是大脑在权衡——给它两周、两个月，答案常常会自己浮出来。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12175,7 +12175,7 @@
           "deckId": "slow_growing",
           "title": "二十几岁探索",
           "punchline": "二十几岁是探索期。",
-          "explanation": "答案不是赶出来的。",
+          "explanation": "二十几岁的本职就是探索。换工作、换城市、换爱好——这些不是不稳定，是这个阶段的正确动作。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12187,7 +12187,7 @@
           "deckId": "slow_growing",
           "title": "生育慢决定",
           "punchline": "生孩子是慢决定。",
-          "explanation": "决定权一直在你。",
+          "explanation": "生育不是任务，是一辈子的承诺。慢慢想清楚——身体、经济、心理、关系都准备好——再决定，永远比赶出来的决定可靠。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12199,7 +12199,7 @@
           "deckId": "slow_growing",
           "title": "迷茫是数据",
           "punchline": "今天的迷茫，可以不解决。",
-          "explanation": "迷茫本身是数据。",
+          "explanation": "迷茫不是问题，是状态。今天不必给它一个答案——让它陪你一阵子，它会自己慢慢告诉你你真正在意什么。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12211,7 +12211,7 @@
           "deckId": "slow_growing",
           "title": "自我命名",
           "punchline": "你想叫自己什么，就叫什么。",
-          "explanation": "身份是你的。",
+          "explanation": "身份不是户口本上的几个字。你可以叫自己创作者、可以叫自己学生、可以叫自己什么都不是——这些标签是工具，不是身份本身。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12223,7 +12223,7 @@
           "deckId": "slow_growing",
           "title": "他人的成功",
           "punchline": "别人的成功，不是你的失败。",
-          "explanation": "他们的胜利和你无关。",
+          "explanation": "同龄人的成功和你没有直接关系。他们升职、买房、结婚——你点个赞，然后回到自己手头的事——这是最健康的处理方式。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12235,7 +12235,7 @@
           "deckId": "slow_growing",
           "title": "和自己和解",
           "punchline": "今天和自己和解一点。",
-          "explanation": "原谅自己的慢。",
+          "explanation": "和自己的关系是最长的关系。今天给自己一点宽容——原谅那个慢的你、那个还没决定的你、那个又拖延了一天的你——和解才是真正的前进。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12247,7 +12247,7 @@
           "deckId": "slow_growing",
           "title": "斜着走也行",
           "punchline": "今天不必和谁看齐。",
-          "explanation": "你的路是斜的也行。",
+          "explanation": "看齐是一种内耗。今天不和任何人看齐——你的节奏可以是斜的、是反向的、是慢一档的——独特路径反而能走出独特视野。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12259,7 +12259,7 @@
           "deckId": "slow_growing",
           "title": "走稳到得远",
           "punchline": "今天慢一点也没事。",
-          "explanation": "走得稳的人，到得远。",
+          "explanation": "慢不是迟到，是节奏。今天慢一点的你——明天可能比那些拼命快的人更有耐力——这是一场长跑，不是冲刺。",
           "backgroundTags": [
             "hidden",
             "slow",
@@ -12271,7 +12271,7 @@
           "deckId": "slow_growing",
           "title": "按自己节奏",
           "punchline": "长大不是赛跑。",
-          "explanation": "你按自己的节奏成为。",
+          "explanation": "长大不是有终点的比赛。它是慢慢长成自己的过程——一年一年地、一阶段一阶段地——你按自己的节奏成为那个完整的你。",
           "backgroundTags": [
             "hidden",
             "slow",
