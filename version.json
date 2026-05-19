@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 30,
-  "apkVersionName": "1.29",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.29.apk",
+  "apkVersionCode": 31,
+  "apkVersionName": "1.30",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.30.apk",
   "apkSizeBytes": 13261208,
   "cardsSha256": "fb5663c175bc657138aa40531de4e1a78147b035465c6711c54341cf73228286",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.29：修复 dark mode 下卡片正面/背面文字看不清——卡片本身因为有 raster+光晕一直是浅色调，文字现在固定走深色，不再跟着系统主题变浅。"
+  "releaseNotes": "v1.30：修复底部「抽一张」按钮和「收藏/分享/再抽」工具栏被系统三键导航条挡住的问题。"
 }
