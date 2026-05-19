@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 26,
-  "apkVersionName": "1.25",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.25.apk",
+  "apkVersionCode": 27,
+  "apkVersionName": "1.26",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.26.apk",
   "apkSizeBytes": 13208512,
   "cardsSha256": "fb5663c175bc657138aa40531de4e1a78147b035465c6711c54341cf73228286",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.25：设置面板顺序微调，把「最近抽过」挪到底部，高频的「设置·关于」往上提一格。"
+  "releaseNotes": "v1.26：去掉底部的 tab bar，让主屏只剩一个抽卡动作。「收藏」入口提到右上方，跟「⋯」并列。"
 }
