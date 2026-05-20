@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 32,
-  "apkVersionName": "1.31",
-  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.31.apk",
-  "apkSizeBytes": 13261208,
+  "apkVersionCode": 33,
+  "apkVersionName": "1.32",
+  "apkUrl": "https://coldplay-now.github.io/soulcard-privacy/android/SoulCard-1.32.apk",
+  "apkSizeBytes": 13261232,
   "cardsSha256": "fb5663c175bc657138aa40531de4e1a78147b035465c6711c54341cf73228286",
   "cardsUrl": "https://coldplay-now.github.io/soulcard-privacy/cards.json",
-  "releaseNotes": "v1.31：锁定竖屏。心卡是抬手抽一张的小仪式，横屏没有用武之地。"
+  "releaseNotes": "v1.32：右上角合并成单一「⋯」入口，点开弹出菜单选「收藏」或「设置」。首屏 chrome 更干净，焦点全部归底部的「抽一张」。"
 }
